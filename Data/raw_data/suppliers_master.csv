@@ -1,0 +1,516 @@
+supplier_id,supplier_name,country,region,product_category,single_source_flag,onboarding_date,account_manager
+1490,"Burton, Jenkins and Matthews",Germany,Europe,Apparel,1.0,2019-02-10,Andrew Barnes
+1430,"Anderson, Mclean and Reed",China,Asia,Electronics,1.0,2022-05-30,Mrs. Michelle Robinson
+1083,"lee, house and ochoa",Vietnam,Asia,Food & Beverage,0.0,2018-07-10,Rachel Williams
+1121,lucas-johnson,Germany,Europe,Food & Beverage,1.0,2016-06-07,Paul Lindsey
+1222,Burns-Anderson,India,Asia,Apparel,0.0,2018-09-12,Brandy Santos
+1148,Casey-Bauer,china,Asia,Toys & Games,1.0,2021-02-11,Sara Lopez
+1033,"Hines, Lowe and Velez",US,Americas,Apparel,1.0,2016-09-18,Stephanie Williams
+1386,"White, Freeman and Wright",Indonesia,Asia,Electronics,1.0,2023-04-02,Todd Harris
+1201,Gonzalez-Reid,Bangladesh,Asia,Apparel,1.0,2018-02-04,Stephanie Marshall
+1482,Saunders PLC,Poland,,Food & Beverage,1.0,2016-12-11,Casey Gardner
+1296,Yoder LLC,Bangladesh,Asia,Beauty & Personal Care,0.0,2018-06-04,Brenda Gonzalez
+1262,"Wilson, Velasquez and Watts",Bangladesh,Asia,Food & Beverage,0.0,2019-01-09,Duane Fernandez
+1434,Simmons and Sons,Brazil,Americas,Electronics,,2024-02-15,Donald Wilson
+1475,Boone-Cruz,CHINA,Asia,Beauty & Personal Care,1.0,2017-12-01,Wendy Kaiser MD
+1460,Estes and Sons,China,Asia,Food & Beverage,,2022-09-22,Molly Davis
+1458,Burton-Lopez,China,Asia,Home Goods,1.0,2019-07-14,Amy Martinez
+1356,frank-flores,Italy,Europe,Apparel,,2024-05-01,Amber Mejia
+1467,White and Sons,Mexico,Americas,Electronics,1.0,2022-01-25,April Wagner
+1116,LOPEZ INC,India,Asia,,0.0,2022-07-10,Holly Sheppard
+1404,"Gill, Porter and Larson",Mexico,Americas,Apparel,1.0,2024-07-02,Travis White
+1014,Beck-Moore,China,Asia,Toys & Games,0.0,2019-08-07,Bradley Gates
+1275,"Houston, Kim And Roach",Germany,Europe,Beauty & Personal Care,0.0,2023-01-04,Kendra Griffin
+1309,Chavez PLC,China,Asia,Apparel,1.0,2022-02-24,Annette Alexander
+1486,"Miller, Gallegos and Aguirre ",China,Asia,,1.0,2017-11-19,Kaitlin Lewis
+1337,"Gilmore, Frost and Barton",Mexico,Americas,Food & Beverage,0.0,2018-04-18,Mr. James Johnson DDS
+1498,"Willis, Smith and Carey",China,Asia,Electronics,1.0,2023-10-14,Christopher Estrada
+1133,MASSEY AND SONS,USA,,,0.0,2017-01-06,David Anthony
+1376,williams-harper,Poland,Europe,Toys & Games,0.0,2023-02-18,Jon Martinez
+1260,"Garza, Mcbride and Dodson",India,Asia,Beauty & Personal Care,0.0,2021-11-03,Morgan Ferguson
+1269,Hayes-Rivera,Bangladesh,Asia,Toys & Games,1.0,2022-01-11,Cassandra Reynolds PhD
+1279,Gardner-White,India,Asia,Apparel,1.0,2020-04-10,Ryan Davidson
+1497,"Gomez, Armstrong And Garcia",India,Asia,Toys & Games,,2016-10-16,Angela Mason
+1302,Luna-Delacruz,India,Asia,Beauty & Personal Care,0.0,2020-05-04,Anna Thompson
+1147,"MYERS, MENDOZA AND MASON",Bangladesh,Asia,Food & Beverage,0.0,2022-08-27,Joanne Rich
+1026,"Bryan, Meadows and Cuevas",Turkey,Europe,Toys & Games,0.0,2024-05-17,Robert Diaz
+1485,tanner-simmons,China,Asia,Beauty & Personal Care,0.0,2019-01-26,Brittany Gonzalez
+1314,"Ramirez, Riley and Michael",China,Asia,Food & Beverage,1.0,2023-04-17,Sharon Johnson
+1247,Smith-White,Turkey,Europe,Food & Beverage,1.0,2022-10-28,Charles Decker
+1347,"adams, murray and rice",Bangladesh,Asia,Beauty & Personal Care,0.0,2017-06-16,Allison Kim
+1223,BRYANT-GIBSON,India,Asia,Beauty & Personal Care,1.0,2022-06-02,Tiffany Lewis
+1419,Kelly Ltd,China,Asia,Apparel,1.0,2022-02-10,Michael Turner
+1052,"BROWN, FOX AND CAMPBELL",India,Asia,Beauty & Personal Care,1.0,2021-06-06,Charles Long
+1259,Gaines-Love,China,Asia,Toys & Games,,2020-11-13,Katherine Baxter
+1428,Henson Inc,China,Asia,Food & Beverage,0.0,2018-11-23,Cassandra Robinson
+1041,"Fischer, Tucker and Russell",China,Asia,Electronics,1.0,2021-06-11,Laura Luna
+1090,Mckinney-Lewis,China,Asia,Electronics,1.0,2021-09-28,Natalie Grimes
+1207,"Davis, Price and Smith",China,Asia,Toys & Games,0.0,2020-05-11,Erin Park
+1240,"Thomas, Walker and Silva",Mexico,Americas,Food & Beverage,0.0,2021-05-18,Daniel Harmon
+1483,"Jackson, Stevenson And Foster",BANGLADESH,Asia,Food & Beverage,0.0,2023-09-11,Joseph Mitchell
+1239,HOGAN LLC,Brazil,Americas,Apparel,0.0,2018-11-08,Rebecca Phillips
+1480,Byrd Group ,Mexico,Americas,Food & Beverage,1.0,2022-03-11,Angelica Boyd
+1311,Washington-Carter,Mexico,Americas,Beauty & Personal Care,0.0,2019-09-25,Eric Smith
+1004,Walker and Sons,India,Asia,Apparel,0.0,2018-11-17,Jason Mejia
+1180,GEORGE-CASTRO,Germany,Europe,Toys & Games,0.0,2016-11-22,Kimberly Kim
+1249,Baker-Brown,India,,Apparel,0.0,2017-03-09,Courtney Morgan
+1293,Hurst Ltd,Vietnam,Asia,Beauty & Personal Care,0.0,2018-06-18,Steven Rodriguez
+1066,Mata-Mendoza,China,Asia,Apparel,0.0,2016-12-30,Daniel Hale
+1139,"Thompson, Joseph and Morales",Turkey,Europe,Food & Beverage,1.0,2023-12-14,Lisa Turner
+1437,"Peterson, Smith and Gallagher",China,Asia,Food & Beverage,0.0,2024-12-19,Tyler Flynn
+1304,Miller-Hayes,Bangladesh,Asia,Home Goods,,2019-03-07,Russell Rodriguez
+1114,Brown Plc,mexico,Americas,Electronics,1.0,2019-12-09,Hailey Mayer
+1469,"Vazquez, Griffin and Forbes",Bangladesh,,Apparel,0.0,2020-11-09,Anthony Freeman
+1169,"May, Dodson And Hoffman",VIETNAM,Asia,Home Goods,1.0,2024-07-24,Angel Johnson
+1102,Best and Sons,India,Asia,Food & Beverage,1.0,2024-04-02,Jerry Caldwell
+1373,Stewart-Villegas,USA,Americas,Home Goods,1.0,2024-01-30,Robert Moses
+1214,"Jones, Barnett and Powell",Bangladesh,Asia,Food & Beverage,1.0,2017-08-10,Randall Hale
+1406,"Turner, Douglas and Meadows",Brazil,,Food & Beverage,1.0,2022-09-18,Stanley Johnson
+1341,Hoffman-Miller ,China,Asia,Toys & Games,,2016-05-31,Leonard Elliott
+1461,Herrera-Clark,Mexico,Americas,Beauty & Personal Care,0.0,2020-02-14,Mark Smith
+1338,"mcclain, martin and allen",Mexico,Americas,Beauty & Personal Care,1.0,2021-04-21,Randy Rodgers
+1452,Jackson Group,Italy,Europe,Toys & Games,1.0,2019-03-26,Eric Morgan
+1194,BALL-BOOKER,USA,Americas,Electronics,0.0,2017-02-22,Riley Harris
+1061,"Dixon, Bradley and Stephens",USA,Americas,Food & Beverage,1.0,2024-04-28,Austin Meyer
+1417,"Wilson, Edwards and Matthews",India,Asia,Home Goods,1.0,2017-12-08,John Barnett
+1315,Ortiz-Grimes,Vietnam,Asia,,1.0,2019-04-26,Martha Rogers
+1119,"Mills, Hood and Pham",Vietnam,Asia,Toys & Games,1.0,2022-03-29,Sonya Case
+1370,"gonzalez, hubbard and ellis",Vietnam,Asia,Home Goods,0.0,2019-09-26,Sheri Johnson
+1426,"Ross, Nunez And Jones",Vietnam,Asia,Apparel,0.0,2019-01-08,Austin Joyce
+1110,Owens and Sons,USA,Americas,Food & Beverage,0.0,2022-06-14,Tiffany Flores
+1348,"Powell, Bartlett and Ruiz",China,Asia,Food & Beverage,0.0,2018-03-10,Nicole Perkins
+1450,Young Group,Mexico,Americas,Home Goods,0.0,2018-04-22,Melissa King
+1362,SIMON-WELLS,China,Asia,Food & Beverage,1.0,2025-04-23,Eric Brown
+1091,Walls PLC,Germany,Europe,Home Goods,1.0,2019-06-19,Nicholas Martinez
+1156,Garcia-Chapman,USA,Americas,Apparel,1.0,2024-03-09,Tyler Grant
+1264,"matthews, wright and acosta",China,Asia,Toys & Games,1.0,2020-04-04,Joshua Brewer
+1307,"Hunt, Shepherd and Ballard",México,Americas,Food & Beverage,0.0,2023-04-03,Kristen Wagner
+1031,"Vaughan, Elliott and Freeman",Poland,Europe,Toys & Games,1.0,2021-05-26,Mrs. Sarah Rosario
+1023,Payne Ltd,Vietnam,Asia,Food & Beverage,1.0,2019-09-08,Bryan Foster
+1306,"Jordan, Davies and Murray",Bangladesh,Asia,Home Goods,0.0,2024-05-03,Hailey Bray
+1032,Russell-Hamilton,China,Asia,Beauty & Personal Care,1.0,2022-01-20,Michaela Kim
+1238,"Murray, Nguyen and Oliver",China,Asia,Toys & Games,1.0,2024-11-10,April Perez
+1327,Phelps-Melton,USA,Americas,Food & Beverage,1.0,2024-12-10,Morgan Little
+1053,Shelton-Larson,P.R. China,Asia,Apparel,0.0,2016-09-05,Anthony Lewis
+1491,"King, Walker and Tran",China,Asia,Beauty & Personal Care,0.0,2017-05-17,Leah Hubbard
+1165,Murray-Rubio,India,,Food & Beverage,1.0,2021-06-09,Terri Boyer
+1217,"Phillips, Pittman and Goodman",China,Asia,Toys & Games,1.0,2021-10-30,Grace Rivers
+1163,Smith-Duarte,Bangladesh,Asia,Apparel,0.0,2018-11-04,Eric Rivas
+1366,Harris Ltd,Germany,Europe,Electronics,0.0,2021-05-19,Daniel Graham
+1057,Gonzales-Smith,Bangladesh,Asia,Electronics,1.0,2022-06-24,Joseph Schaefer
+1471,"CHRISTIAN, FOX AND WEBER",Vietnam,Asia,Toys & Games,1.0,2024-02-10,Alice Gibson MD
+1003,Johnson LLC,Mexico,Americas,Apparel,0.0,2021-01-07,Leslie Lin
+1059,Perez Ltd,Bangladesh,Asia,Electronics,1.0,2019-09-23,Kimberly Taylor
+1372,"henderson, lee and weaver",Vietnam,Asia,Beauty & Personal Care,0.0,2022-08-10,Wendy Flores
+1241,"Moore, Matthews And Duke",VIETNAM,Asia,Electronics,1.0,2016-05-07,Christopher Lewis
+1268,"White, Alvarez and Martin",India,Asia,Electronics,,2019-11-25,Brian Frye
+1500,Jordan and Sons,Turkey,Europe,Electronics,0.0,2025-03-19,Donald Proctor
+1075,"Mccullough, Weaver and Walsh",Vietnam,Asia,Toys & Games,1.0,2020-12-29,Alyssa Quinn
+1331,Davis Group,India,Asia,Beauty & Personal Care,0.0,2023-12-20,Justin Brown
+1477,Young PLC,India,Asia,Apparel,1.0,2016-05-14,Dylan Johnson
+1422,Brown-Strong,Indonesia,Asia,Electronics,1.0,2022-03-20,Victoria Young
+1278,Flores Inc,India,Asia,Toys & Games,1.0,2023-07-19,Melissa King
+1081,Peterson-Odonnell,Germany,,Home Goods,,2020-03-19,Mark Patrick
+1243,Murray-Richardson,Brazil,Americas,Beauty & Personal Care,1.0,2019-05-23,Kevin Burnett
+1027,Turner-Clark,Germany,Europe,Electronics,0.0,2020-12-06,Wayne Juarez
+1203,Alvarado-Huynh,United States,Americas,Toys & Games,1.0,2016-12-16,Caleb Jackson
+1213,Freeman Inc,Turkey,Europe,Electronics,0.0,2017-02-15,Christopher Miller
+1282,BURTON LTD,Bangladesh,Asia,Food & Beverage,0.0,2023-06-30,Jennifer Shannon
+1354,MARTINEZ-WOLF,Bangladesh,Asia,Apparel,0.0,2016-08-06,Ashley Wall
+1365,"Rodgers, Duncan and Owens",Indonesia,Asia,Apparel,0.0,2025-02-05,Jeffrey Henry
+1146,Lee-Robinson,China,Asia,Electronics,0.0,2022-10-26,Dawn Kelly
+1421,Beltran Ltd,Brazil,Americas,Beauty & Personal Care,0.0,2022-07-28,Mary Greene
+1109,"Bass, Tapia and Bartlett",Turkey,,,1.0,2023-12-30,Kristin Lee
+1051,Rivas Group,Bangladesh,Asia,Beauty & Personal Care,0.0,2023-12-17,Paul Wilson
+1436,"Davis, Rodriguez and Gutierrez",Mexico,,Toys & Games,,2018-05-24,Amanda Parker
+1301,YOUNG-KIM,India,Asia,Food & Beverage,0.0,2023-10-26,Michele Whitaker
+1015,Glover-Ferguson,Poland,Europe,Beauty & Personal Care,1.0,2019-08-28,Elizabeth Douglas
+1465,NELSON-SMITH,China,Asia,Toys & Games,1.0,2018-03-24,Sheila Welch
+1391,"Weeks, Richardson and Hampton",Indonesia,Asia,Food & Beverage,1.0,2017-03-26,Carmen Thornton
+1115,Richardson and Sons,India,Asia,Food & Beverage,1.0,2025-04-15,Matthew Page
+1244,Sanchez and Sons,China,Asia,Electronics,1.0,2023-11-16,Mr. Jose Sims
+1060,Perry And Sons,bangladesh,Asia,Food & Beverage,0.0,2024-11-08,Justin Lester
+1174,Gardner and Sons,India,Asia,Food & Beverage,0.0,2021-01-27,Paul Hanson
+1099,Brown-Andrews,Vietnam,Asia,Apparel,0.0,2023-04-26,Ellen Nash DDS
+1160,"Martinez, Velez and Roberts",Vietnam,,Beauty & Personal Care,1.0,2020-05-18,Kyle Sandoval
+1250,Smith Ltd,China,Asia,Apparel,0.0,2025-01-12,Victoria Mclean
+1042,"SANTIAGO, BROWN AND DUNN",Vietnam,Asia,Beauty & Personal Care,0.0,2019-03-04,Timothy Khan
+1271,"Lee, Haynes And Simmons",Brazil,Americas,Home Goods,0.0,2020-02-14,Lauren Nguyen
+1205,"Knox, Mendoza and Parker",Bangladesh,Asia,Home Goods,1.0,2021-01-20,Amanda Kim
+1218,WALTERS INC,Mexico,Americas,Toys & Games,1.0,2023-10-15,Tonya Smith
+1080,ALLEN-WARD,USA,Americas,Beauty & Personal Care,1.0,2021-03-25,Lori Vargas
+1029,Ramirez LLC,India,Asia,Apparel,1.0,2020-01-01,Juan Adams
+1345,Spencer Group,Viet Nam,Asia,Electronics,0.0,2020-02-14,Melvin George
+1364,Mathis-Padilla,Turkey,Europe,Electronics,1.0,2020-01-06,Matthew Ryan
+1257,Huber-Blanchard,USA,Americas,Apparel,1.0,2019-09-08,Vicki Brady
+1466,Moran-Melendez,Italy,Europe,Beauty & Personal Care,0.0,2024-09-08,William Maxwell
+1058,Carpenter-Walker,Bangladesh,Asia,Beauty & Personal Care,1.0,2018-04-06,Tracy Fox
+1427,Dunn PLC,China,Asia,Apparel,0.0,2017-01-17,Maria Espinoza
+1063,Richardson Llc,Mexico,Americas,Food & Beverage,0.0,2017-10-16,Nicole Ramirez
+1388,"Jones, Thompson and Avery",Brazil,Americas,Electronics,0.0,2019-06-08,James Dunn
+1112,Powell-Morrison,Bangladesh,Asia,Electronics,0.0,2019-09-12,Anthony White
+1085,Nelson-Mcneil,China,Asia,Toys & Games,1.0,2017-06-06,Jessica Hall
+1237,Juarez LLC,China,Asia,Toys & Games,1.0,2023-06-18,Brandon Brooks
+1272,Cook-Carter,Germany,Europe,Apparel,0.0,2018-06-25,Sabrina Nixon
+1343,Marks-Patel,Bangladesh,Asia,Food & Beverage,0.0,2022-08-01,Michelle Cunningham
+1228,Garcia-French,China,Asia,Electronics,1.0,2024-05-17,Hannah Adams
+1130,Howard-Williams,India,Asia,Apparel,,2019-07-30,Chris Hill
+1166,"Matthews, King And Reed",China,Asia,Beauty & Personal Care,0.0,2019-08-23,Cynthia Hunter
+1097,Bailey Inc,Germany,Europe,Apparel,1.0,2023-07-26,Juan Martin
+1489,MARTINEZ INC,Bangladesh,Asia,Home Goods,1.0,2020-07-01,Dustin Alexander
+1297,"Scott, Bates and Davenport",USA,Americas,Food & Beverage,0.0,2018-06-06,Jessica Williams
+1480,Byrd Group,Mexico,Americas,Food & Beverage,1.0,2022-03-11,Angelica Boyd
+1142,Jordan-Ayala,Turkey,Europe,Food & Beverage,1.0,2020-12-25,Mrs. Jessica Smith DDS
+1464,"Watson, Garcia And Guerrero",Mexico,Americas,Beauty & Personal Care,1.0,2023-12-17,Tracy Hutchinson
+1188,Jordan-Ortiz,Indonesia,Asia,,0.0,2019-08-02,Sara Walker
+1369,Glover PLC,Poland,Europe,Apparel,0.0,2016-09-02,Anne Reynolds
+1221,Orr-Padilla,Indonesia,Asia,Beauty & Personal Care,1.0,2022-02-05,Matthew Peters
+1229,RODRIGUEZ-BENITEZ,Brazil,Americas,Food & Beverage,1.0,2018-07-31,Tiffany Lee
+1323,Myers LLC,Turkey,Europe,Electronics,0.0,2023-10-22,Bradley Carlson
+1396,Martin PLC,India,Asia,Home Goods,1.0,2021-10-10,George Green
+1360,Marquez-Wright,China,Asia,Beauty & Personal Care,1.0,2023-08-10,Natalie Lozano
+1082,"Moran, Trujillo and Long",China,Asia,Home Goods,0.0,2021-09-03,Jacqueline Brown
+1355,Gray Group,Mexico,Americas,Food & Beverage,0.0,2019-12-21,Mallory White
+1322,Sanchez LLC,Bangladesh,Asia,Beauty & Personal Care,0.0,2017-02-05,Kari Martin
+1067,"Mathis, Skinner and Walker ",Mexico,,Apparel,0.0,2022-10-04,James Hernandez
+1435,"Macdonald, Flynn and Stanley",China,Asia,,0.0,2021-01-02,Kevin Thompson
+1415,Carson Inc,India,Asia,Food & Beverage,1.0,2017-09-18,Nicholas Leon
+1189,White LLC,India,Asia,Apparel,1.0,2017-08-01,Jennifer Wilcox
+1335,Brown LLC,Mexico,Americas,,0.0,2024-02-10,Adam Caldwell
+1054,HANSON LLC,India,,Food & Beverage,0.0,2018-11-21,Garrett Fitzgerald
+1172,Fletcher Inc,China,Asia,Home Goods,1.0,2022-02-19,Victoria Miller
+1385,"White, Spencer and Barry",Poland,Europe,Electronics,0.0,2022-09-19,Javier Williams
+1140,Garcia Inc,India,Asia,Electronics,1.0,2021-05-17,Howard Tucker
+1274,Hernandez PLC,China,Asia,,,2024-03-25,Kimberly Waters
+1285,"Thompson, Johnson and Armstrong",Mexico,Americas,Beauty & Personal Care,0.0,2024-07-14,Jeffrey Jarvis
+1067,"Mathis, Skinner and Walker",Mexico,,Apparel,0.0,2022-10-04,James Hernandez
+1439,Graham-Nunez,Mexico,Americas,Home Goods,1.0,2023-04-30,Sherry Harmon
+1032,Russell-Hamilton ,China,Asia,Beauty & Personal Care,1.0,2022-01-20,Michaela Kim
+1295,Knapp Group,India,Asia,Food & Beverage,0.0,2023-08-13,Joseph Odonnell
+1233,Castro LLC,China,Asia,Food & Beverage,0.0,2023-03-11,Heather Anderson
+1100,"Lucas, Adams and Ewing",China,Asia,Apparel,1.0,2022-03-21,Adam Guerra
+1284,Meyers Ltd,India,Asia,Beauty & Personal Care,1.0,2019-04-14,Nicole Foley
+1149,Wilcox-Miller,China,Asia,Toys & Games,1.0,2022-03-28,Kaitlyn Griffith
+1016,SMITH-WRIGHT,Bangladesh,Asia,Electronics,0.0,2022-06-19,James Moses
+1164,Tucker Ltd,China,Asia,Electronics,1.0,2024-07-15,Maurice Zamora
+1290,"Welch, Love and Martin",China,,Home Goods,1.0,2024-01-23,Christopher Wilson
+1047,"Young, Scott and Webb",China,Asia,,0.0,2017-12-27,Michael Taylor
+1087,Williams Ltd,China,Asia,Electronics,,2021-05-26,Jacqueline Miller
+1038,Clark-Ryan,India,Asia,Beauty & Personal Care,0.0,2019-08-14,Michael Bradford
+1423,Pena-James,Mexico,Americas,Toys & Games,1.0,2021-08-20,Michael Lewis
+1371,Maxwell-Ford,Mexico,Americas,Beauty & Personal Care,1.0,2022-05-13,David Wood
+1425,"Sanchez, Aguilar and Jones",China,Asia,Electronics,1.0,2017-08-27,Valerie Galvan
+1446,"Morrison, Nelson and Hernandez",India,Asia,Food & Beverage,0.0,2017-08-16,Ashley Castro
+1294,"Dunn, Hernandez and Sanchez",China,Asia,Food & Beverage,0.0,2019-08-13,Stephanie Deleon
+1173,Smith LLC,China,Asia,Food & Beverage,1.0,2019-07-02,John Kelly
+1074,Allen-Fernandez,Germany,Europe,Toys & Games,1.0,2024-11-01,Andrew Aguilar
+1281,Diaz-Gibson,China,Asia,Electronics,0.0,2018-08-09,Paula Taylor
+1105,MARSHALL-BRIGHT,USA,Americas,Beauty & Personal Care,0.0,2016-09-02,Ryan Hopkins
+1358,horton-gonzalez,Indonesia,Asia,Electronics,1.0,2024-12-12,Donald Smith
+1254,baker llc,Germany,Europe,Electronics,,2020-11-21,Holly Wood
+1017,Gallegos LLC,Vietnam,Asia,Apparel,0.0,2017-01-07,Michael Clark
+1447,Fisher-Tyler,Germany,Europe,Apparel,0.0,2024-09-27,Sean Vaughan
+1092,Allen-Hudson,Vietnam,Asia,Apparel,0.0,2025-01-12,Nicholas Haas
+1089,Koch-Brown,China,Asia,Home Goods,1.0,2018-10-25,Peter Hughes
+1387,SHERMAN AND SONS,India,Asia,Electronics,0.0,2022-06-10,Mary Sanford
+1141,"Wilson, Martinez and Logan",Brazil,Americas,Electronics,0.0,2020-02-13,Amanda Russell
+1195,"Nelson, Howard and Wiley",China,Asia,Beauty & Personal Care,1.0,2023-10-01,Mariah Brown
+1206,Rosario-Hahn,India,Asia,Beauty & Personal Care,0.0,2022-06-16,Jonathan Jimenez
+1103,Lewis-Campos,Bangladesh,Asia,Beauty & Personal Care,1.0,2023-05-29,Jennifer Moore
+1265,Wright Plc,Italy,Europe,Electronics,1.0,2019-06-21,Mackenzie Garcia
+1175,mcmahon-young,China,Asia,Food & Beverage,0.0,2018-09-14,Alison Todd MD
+1171,roman ltd,Turkey,Europe,Toys & Games,0.0,2018-07-21,Sara Miller
+1389,Guerrero PLC,USA,Americas,Toys & Games,0.0,2017-05-13,Holly Johnson
+1158,Nash PLC,Mexico,Americas,Electronics,1.0,2023-12-21,Katherine Kennedy
+1071,Smith Group,Mexico,,Apparel,1.0,2016-09-28,Ashley Lewis
+1134,Wade-Smith,P.R. China,Asia,Home Goods,1.0,2017-04-09,Caitlin Cervantes
+1455,Copeland-Cooley,Vietnam,Asia,Toys & Games,1.0,2017-11-24,Matthew Reed
+1250,Smith Ltd ,China,Asia,Apparel,0.0,2025-01-12,Victoria Mclean
+1379,GARRISON LTD,Vietnam,Asia,Home Goods,,2024-09-26,Pamela Walker
+1363,NELSON PLC,India,Asia,Apparel,0.0,2023-02-04,Bobby Perry
+1246,Graham and Sons,India,Asia,Toys & Games,0.0,2024-01-16,Alexander Patterson
+1470,ROBERTS-DUFFY,Brazil,Americas,Electronics,0.0,2023-04-09,Tara Yang
+1432,Patterson Ltd,China,Asia,Beauty & Personal Care,1.0,2018-10-11,Keith White
+1353,House PLC,Germany,Europe,Apparel,1.0,2024-07-20,Makayla Williams
+1245,"CROSS, MARTIN AND BERRY",Germany,Europe,Electronics,1.0,2024-05-17,Albert Huber
+1019,"Thomas, Richards And Ortiz",Vietnam,Asia,Toys & Games,0.0,2019-11-07,Charles Goodwin
+1178,Roberts Group,China,Asia,Apparel,1.0,2019-01-07,Alicia Parker
+1410,"Johnson, Buckley and Welch",Brazil,Americas,Food & Beverage,0.0,2019-12-12,Caitlin Lopez
+1021,James-Spence,China,Asia,Toys & Games,0.0,2019-03-24,Richard Williams
+1056,"anderson, jordan and bennett",Vietnam,Asia,Toys & Games,1.0,2023-10-24,Richard Leach
+1320,Lynch-Martin,Mexico,Americas,Food & Beverage,0.0,2021-10-05,Hector Joyce
+1462,"Greene, Golden and Payne",P.R. China,Asia,Beauty & Personal Care,0.0,2025-02-05,Christopher Henry PhD
+1368,"walker, lee and simpson",China,Asia,Beauty & Personal Care,1.0,2020-11-10,Jennifer Cook
+1035,hernandez-lane,Bangladesh,Asia,Beauty & Personal Care,0.0,2019-07-03,Traci Walters
+1182,Gregory-Mitchell,China,Asia,Toys & Games,1.0,2022-01-28,Eileen Cohen
+1185,"Mcdaniel, Montes and Moody",Brazil,Americas,Beauty & Personal Care,1.0,2025-03-25,Jessica Lowe
+1151,Atkins-Jimenez,USA,Americas,,1.0,2019-07-07,John Schneider
+1208,"Rodriguez, Shaffer and Snyder",China,Asia,Apparel,1.0,2018-04-07,Michele Thompson
+1352,Hodge-Gonzalez,China,Asia,Beauty & Personal Care,0.0,2020-01-07,Edward Hill
+1095,"Willis, Hicks and Thompson",Vietnam,Asia,Food & Beverage,1.0,2020-11-29,Sandra Rice
+1377,GOMEZ LTD,Mexico,,Beauty & Personal Care,0.0,2019-02-11,Jennifer Smith
+1303,Stanton-Gutierrez,Italy,Europe,Apparel,1.0,2021-01-10,Maria Conley
+1098,Burton And Sons,Vietnam,Asia,Food & Beverage,1.0,2020-10-08,Brian Roberts
+1236,"Mckay, Gomez And Jones",Germany,Europe,Apparel,1.0,2016-06-07,Ashley Torres
+1405,Thomas-Mueller,India,,Beauty & Personal Care,0.0,2020-12-19,Catherine Ramos
+1442,"Johnson, Gonzalez and Johnson",china,Asia,Toys & Games,1.0,2023-03-07,Susan Robinson
+1155,"ryan, brown and ford",Germany,Europe,Electronics,1.0,2024-02-24,Mary Jackson
+1123,Hill Inc,India,Asia,Home Goods,1.0,2021-07-29,Melissa Jackson
+1339,"osborne, stevens and ward",Mexico,,Electronics,0.0,2024-03-14,Courtney Evans
+1079,"Ortega, Orozco and Robertson",USA,Americas,Home Goods,0.0,2023-05-02,Mr. Stephen Rasmussen
+1062,"May, Taylor and Calderon",Brazil,Americas,Toys & Games,1.0,2024-04-05,Sergio Larsen
+1476,Baker Llc,China,Asia,,0.0,2017-10-21,Jason Dean
+1126,"Rice, Williams and Bishop",Poland,Europe,Home Goods,1.0,2020-01-23,Scott Fleming
+1319,Dennis-Casey,China,Asia,Apparel,1.0,2023-01-03,Michael Gonzalez
+1317,Davis Inc,Bangladesh,Asia,Home Goods,0.0,2019-01-06,Nathan Rivera
+1496,King-Thomas,Mexico,Americas,Apparel,1.0,2024-07-21,Felicia Rich
+1431,jensen plc,Poland,Europe,Food & Beverage,,2018-01-11,Rhonda James
+1451,Ray-James,Mexico,Americas,Beauty & Personal Care,,2024-01-02,Gregory Chapman
+1418,Robinson Group,China,Asia,Beauty & Personal Care,1.0,2016-08-30,Troy Brooks
+1025,johnston-estes,China,Asia,Food & Beverage,0.0,2025-04-18,Mr. Anthony Moore Jr.
+1329,Molina Ltd,U.S.A,,Food & Beverage,0.0,2020-09-22,Robert Santiago DVM
+1440,Brown Group,Indonesia,,Home Goods,0.0,2022-09-19,Robert Huffman
+1323,Myers LLC ,Turkey,Europe,Electronics,0.0,2023-10-22,Bradley Carlson
+1127,MCCANN LLC,Mexico,Americas,Beauty & Personal Care,1.0,2024-12-28,Madeline Callahan
+1424,Taylor Llc,China,Asia,Home Goods,1.0,2020-05-28,Brian Eaton
+1328,"CONNER, MEZA AND BOYLE",Bangladesh,Asia,Toys & Games,0.0,2024-10-13,Courtney Sherman
+1179,Santos-Anderson,Vietnam,Asia,Electronics,0.0,2018-12-27,Renee Lee
+1444,"Leon, Ortega and Walls",CHINA,Asia,Apparel,1.0,2020-06-25,Christopher Chapman
+1381,Ortiz Group,Poland,Europe,Food & Beverage,1.0,2019-03-13,James Bell
+1224,"Sanders, Clark and Aguilar",Mexico,Americas,Toys & Games,0.0,2017-06-23,Mrs. Lisa Owens MD
+1359,aguilar group,India,Asia,Beauty & Personal Care,0.0,2020-04-26,Sarah Hunter
+1094,Pierce LLC,China,Asia,Toys & Games,1.0,2017-06-02,David Velazquez
+1070,Dominguez Group,Brazil,Americas,Apparel,1.0,2018-02-21,Michael Peterson
+1037,Charles Group,Germany,,Apparel,0.0,2025-03-18,Billy Gonzalez
+1161,"perry, stone and webb",China,Asia,Home Goods,1.0,2019-08-16,Greg Gay
+1012,Smith and Sons,Indonesia,,Electronics,0.0,2020-12-28,Natalie Lawrence
+1145,"Hendricks, Ferguson and Wright",Mexico,Americas,Beauty & Personal Care,1.0,2018-07-29,Kelsey Buckley
+1361,"Gonzalez, Bradford and Daniel",Brazil,Americas,Home Goods,0.0,2018-03-03,Tracey Anderson
+1128,Simon Ltd,Germany,,Toys & Games,1.0,2024-03-31,Alan Becker
+1448,hill group,U.S.A,Americas,Toys & Games,,2023-11-01,Elizabeth Valencia
+1010,"Conway, Ray And Moore",Bangladesh,Asia,Beauty & Personal Care,1.0,2021-04-06,Gregory Greene
+1382,perez plc,Poland,Europe,Beauty & Personal Care,1.0,2025-01-30,Tyler Lewis
+1177,Charles LLC,Turkey,Europe,Apparel,0.0,2019-09-20,Elizabeth Allen
+1232,Nelson-Skinner,Brazil,Americas,Electronics,0.0,2022-12-27,Miranda Burns
+1211,"THOMPSON, COOPER AND HILL",Brazil,Americas,Beauty & Personal Care,0.0,2020-06-07,Anthony Webb
+1129,Hardy-Gomez,China,Asia,Home Goods,1.0,2024-06-11,Lori Mason
+1144,jacobs and sons,India,Asia,Electronics,0.0,2024-03-15,Collin Gibson
+1242,Adams and Sons,Bangladesh,,Home Goods,1.0,2017-11-16,Teresa Schroeder
+1008,Reed Ltd,China,Asia,Beauty & Personal Care,0.0,2020-02-26,Joshua Williams
+1299,Cooper Inc,USA,Americas,Home Goods,0.0,2022-06-15,Jimmy Harris
+1255,Nelson-Weiss,Mexico,,Toys & Games,0.0,2021-06-10,Connie Collins
+1378,"Fox, Thomas and Powell",China,,Food & Beverage,,2024-12-28,Jonathan Ryan
+1342,Rodriguez-Perry,China,Asia,Home Goods,1.0,2019-09-12,Anthony Hamilton
+1009,Hill Ltd,Germany,Europe,,0.0,2021-02-15,Kayla Davis
+1157,Flores-Smith,Poland,Europe,Beauty & Personal Care,0.0,2021-03-18,Regina Lewis
+1028,Bowman-Frederick,Indonesia,Asia,Home Goods,1.0,2020-11-15,Amy Anderson
+1267,"Simmons, Dunn and Woods",Mexico,Americas,Home Goods,1.0,2017-08-16,Matthew Fitzgerald
+1065,Walters-Brown,China,Asia,Home Goods,1.0,2016-06-14,Daniel Rios
+1256,Morton Inc,Vietnam,Asia,,0.0,2024-08-05,Holly Fuller
+1325,"stone, johnson and kelly",Turkey,Europe,Apparel,1.0,2020-03-23,Anthony Wang
+1154,Medina-Foley,Vietnam,Asia,Home Goods,1.0,2016-07-18,Adam Huang
+1049,"Evans, Lee and Smith",Mexico,Americas,Home Goods,1.0,2020-12-27,Emily Clements
+1209,Armstrong-Spencer,China,Asia,Beauty & Personal Care,1.0,2018-10-03,Corey Poole
+1288,"Park, Douglas and Walker",China,Asia,Toys & Games,1.0,2019-11-15,James Hodges
+1002,"Barton, Thompson and Johnson",China,,Apparel,1.0,2024-11-07,Charles Jones
+1270,martinez group,China,Asia,Toys & Games,1.0,2017-02-06,William Crawford
+1266,"NORRIS, HOOVER AND PITTS",Brazil,Americas,Beauty & Personal Care,1.0,2019-12-14,Natalie Ferguson
+1334,LOWE LTD,Germany,Europe,Apparel,0.0,2023-02-24,David Owens
+1341,Hoffman-Miller,China,Asia,Toys & Games,,2016-05-31,Leonard Elliott
+1096,Green Plc,Poland,Europe,Toys & Games,1.0,2023-12-15,Thomas Hutchinson
+1473,sanchez-brown,China,Asia,Beauty & Personal Care,0.0,2017-06-30,Jose Williams
+1305,"Mccarthy, Ramirez and Nichols ",Brazil,Americas,Apparel,0.0,2024-02-11,Travis Peters
+1091,Walls PLC ,Germany,Europe,Home Goods,1.0,2019-06-19,Nicholas Martinez
+1117,Hernandez-Dennis,USA,Americas,Home Goods,0.0,2020-09-05,Jeffrey Vance
+1046,"Medina, Harrell and Henry",Mexico,Americas,Home Goods,1.0,2023-01-23,Cassandra Peters MD
+1162,Chang-Riggs,Bangladesh,Asia,Beauty & Personal Care,1.0,2022-11-07,Jocelyn Landry
+1499,Mitchell-Anderson,Vietnam,Asia,Home Goods,0.0,2021-11-27,Carlos Dixon
+1118,Bennett Group,Mexico,Americas,Beauty & Personal Care,0.0,2017-05-02,Victoria Obrien
+1289,Barber-Campbell,USA,Americas,Beauty & Personal Care,0.0,2023-04-29,Micheal Beck
+1078,"Montgomery, Mendoza and Poole",China,Asia,Electronics,1.0,2024-05-22,Candice Lane
+1402,patrick-ramirez,Italy,Europe,Apparel,1.0,2019-01-09,Maria Hernandez
+1064,Lewis Group,México,Americas,Beauty & Personal Care,1.0,2020-01-20,Matthew Townsend
+1459,Taylor Inc,China,Asia,Electronics,1.0,2021-02-26,Alan Reilly
+1397,Calhoun-Pratt,Deutschland,Europe,Toys & Games,1.0,2020-01-14,Ann Johnson
+1231,"Lee, Willis and Frazier",INDIA,Asia,Beauty & Personal Care,1.0,2024-05-16,William Edwards
+1298,Palmer-Hamilton,USA,Americas,Apparel,1.0,2024-07-26,Nicholas Campbell
+1187,"Gray, Taylor and Young",CHINA,Asia,,1.0,2021-06-30,Brandon Leonard
+1120,"Mcgee, Schultz and Wilson ",China,Asia,Toys & Games,0.0,2019-03-16,Autumn Singh
+1200,"Garcia, Rivera And Rivera",Bangladesh,Asia,Home Goods,0.0,2021-02-07,Christopher Frank
+1351,"odonnell, hughes and briggs",India,,Electronics,1.0,2023-04-18,Denise Simpson
+1122,Barnett-Ayala,China,Asia,Electronics,1.0,2022-10-10,Alfred Mclean
+1479,"Wilson, Griffin and Douglas",Vietnam,Asia,Home Goods,0.0,2022-01-16,Tony Romero
+1443,Swanson-Silva,China,Asia,Electronics,1.0,2021-07-12,Kelly Stone
+1308,edwards-jacobs,China,Asia,Beauty & Personal Care,0.0,2019-08-12,Andrew Benson
+1472,Hoffman PLC,USA,Americas,Beauty & Personal Care,1.0,2020-03-12,Michael Wright
+1159,"Butler, Rose and Davis",Turkey,Europe,Beauty & Personal Care,0.0,2021-05-05,Robert Hinton
+1086,Hughes-Hunter,Vietnam,Asia,Toys & Games,0.0,2022-03-03,Travis Sanchez
+1226,Cooper Group,Brazil,Americas,Apparel,1.0,2020-04-19,Carrie Murphy
+1263,"Dougherty, Warren and Nelson",Germany,,Apparel,0.0,2017-11-19,Kelly Williams
+1332,Bennett-Wilson,P.R. China,Asia,Apparel,,2017-05-26,Courtney Adams
+1411,CONTRERAS-DOMINGUEZ,China,Asia,Apparel,1.0,2021-07-25,Tracey Obrien
+1077,"ROMERO, ELLISON AND ANDERSON",Brazil,Americas,Food & Beverage,1.0,2023-08-21,Lisa Snyder
+1398,Erickson LLC,mexico,Americas,Toys & Games,1.0,2017-03-04,John Estrada
+1383,Moore-Murillo,Mexico,Americas,Electronics,0.0,2020-10-27,David Smith
+1088,Ward Inc,Vietnam,Asia,,1.0,2021-05-13,Justin Acosta
+1306,"Jordan, Davies and Murray ",Bangladesh,Asia,Home Goods,0.0,2024-05-03,Hailey Bray
+1183,Johnson Plc,Vietnam,Asia,Beauty & Personal Care,0.0,2020-02-06,Jacqueline White
+1106,york-smith,China,Asia,Toys & Games,0.0,2019-02-28,Amanda West
+1409,meyer-murray,China,Asia,Food & Beverage,0.0,2020-09-23,Timothy Baker
+1050,Cross-Henry,Italy,Europe,Toys & Games,0.0,2020-07-27,Kimberly Garcia
+1390,"Mcpherson, Coleman and Ruiz",india,Asia,Apparel,0.0,2018-04-20,Penny Adams
+1006,fitzgerald llc,China,Asia,Electronics,1.0,2020-07-07,Michael Bennett
+1018,SANCHEZ LLC,Bangladesh,,Apparel,0.0,2024-08-04,Julia Johnson
+1235,"Ortiz, Morrison and Taylor",China,Asia,Toys & Games,0.0,2018-02-28,Shannon Reynolds
+1413,Hernandez-Thomas,Turkey,Europe,Toys & Games,0.0,2016-11-28,Mark Wood
+1407,Thompson Inc,China,Asia,Home Goods,0.0,2020-01-16,Margaret Wilson
+1107,Frederick-Wilson,Vietnam,Asia,Beauty & Personal Care,1.0,2022-05-22,Kathryn Hernandez
+1135,"Gomez, Bates And Parks",China,Asia,Toys & Games,1.0,2021-01-09,Joe Harris
+1414,Wolfe-Kirby,India,Asia,Electronics,0.0,2025-01-21,Glenn Nguyen
+1227,Robinson-Salazar,India,Asia,Electronics,1.0,2017-04-14,James Gray
+1215,Martin-Collins,PRC,Asia,Home Goods,1.0,2024-05-09,Jonathan Price
+1191,Mccoy LLC,Mexico,Americas,Electronics,1.0,2022-06-12,Diane Owens
+1453,duncan-ward,india,Asia,Home Goods,0.0,2022-12-21,Pamela Gardner
+1321,Hall-Ballard,Bangladesh,Asia,Toys & Games,1.0,2020-10-06,Alexa Davis
+1283,Walker Group,Indonesia,Asia,Apparel,1.0,2017-05-01,Matthew Collins
+1030,"Marquez, Weaver and Simon",Turkey,,Electronics,0.0,2016-06-13,Heather Smith
+1170,BRANCH-STONE,Indonesia,Asia,Electronics,0.0,2019-03-23,Jennifer Mendez
+1181,"arnold, morse and ramirez",China,,Food & Beverage,1.0,2024-09-28,Susan Flores
+1101,"Johnson, Russell and Dunn",India,Asia,Food & Beverage,0.0,2024-03-25,Wendy Garcia
+1198,Wilson PLC,China,Asia,Toys & Games,0.0,2017-06-26,Barry Hodge
+1210,Thompson PLC,China,Asia,Apparel,0.0,2017-01-21,Caleb Suarez
+1136,Hopkins LLC,Poland,Europe,Apparel,1.0,2022-06-04,Kayla Morgan
+1484,Mcdowell Group,US,Americas,Toys & Games,1.0,2018-10-16,Larry Owens
+1441,Snyder LLC,vietnam,Asia,Electronics,1.0,2021-03-06,Ryan Ford
+1199,Lee Plc,Turkey,Europe,Food & Beverage,1.0,2016-05-23,Jennifer Alexander
+1374,Weber LLC,China,Asia,,1.0,2019-09-03,Alexandra Richmond
+1167,Smith-Landry,Mexico,Americas,Electronics,0.0,2018-08-14,Ricky Jones
+1395,Chambers PLC,Vietnam,Asia,Apparel,0.0,2024-01-30,Loretta Myers
+1137,Perry and Sons,China,Asia,Toys & Games,1.0,2020-06-19,Holly Sanchez
+1286,"Campbell, Vargas and Boone",China,Asia,Beauty & Personal Care,,2019-08-18,Patrick Young
+1336,larson-baker,China,Asia,Food & Beverage,0.0,2018-06-24,Scott Gardner
+1132,"Snow, Moody And Hester",China,Asia,Electronics,0.0,2017-07-07,Thomas Wheeler
+1040,"erickson, montoya and hall",China,Asia,Electronics,0.0,2019-10-31,Melanie Butler
+1216,"SHEPHERD, WILLIAMS AND ARCHER",China,Asia,Apparel,,2019-02-22,Whitney Newman
+1044,"Weber, Hines and Barnes",Mexico,Americas,Food & Beverage,1.0,2025-03-26,Reginald Chavez
+1055,"robinson, williams and brown",China,Asia,Beauty & Personal Care,1.0,2021-05-10,Melanie Jimenez
+1488,Morales Ltd,México,Americas,Toys & Games,0.0,2016-11-20,Emma Fleming
+1300,"Marquez, Banks and Sosa",Mexico,Americas,Home Goods,1.0,2024-09-28,Carlos Edwards
+1468,Romero-Hopkins,Mexico,Americas,Beauty & Personal Care,1.0,2020-06-12,Jasmin Lopez
+1305,"Mccarthy, Ramirez and Nichols",Brazil,Americas,Apparel,0.0,2024-02-11,Travis Peters
+1036,Ball Group,Mexico,Americas,Beauty & Personal Care,1.0,2021-01-22,Christopher Day MD
+1316,Carter Ltd,India,Asia,Food & Beverage,0.0,2024-03-13,Candace Rogers
+1400,"Gonzalez, Martin and Daniels",USA,Americas,Electronics,0.0,2024-03-10,Teresa Mcguire
+1310,"Johnson, Knight and Parker",Mexico,Americas,Home Goods,1.0,2022-08-31,Catherine Thompson
+1277,Patel Inc,China,Asia,Beauty & Personal Care,0.0,2021-10-02,Amanda Hill
+1125,Hansen-Coleman,China,Asia,Apparel,0.0,2020-12-04,Ethan Gonzales
+1143,mcfarland-miller,Bangladesh,Asia,Electronics,1.0,2018-10-11,James Martin
+1111,Allen-Cruz,Italy,Europe,Apparel,0.0,2017-10-20,Christine Fisher
+1324,Zimmerman-Woodward,Mexico,Americas,Food & Beverage,0.0,2019-08-05,Daniel Mckee
+1333,"Buck, Wolf and Duran",Brazil,Americas,Apparel,1.0,2019-11-02,Anthony Walsh
+1394,Walker-Walker,India,Asia,Beauty & Personal Care,1.0,2023-12-27,Brandi Johnson
+1474,"Villarreal, Scott and Hinton",Brazil,Americas,Beauty & Personal Care,0.0,2017-10-18,Elizabeth Campos
+1108,Haney-Mcintyre,Brazil,Americas,Beauty & Personal Care,1.0,2024-07-26,Ashley Page
+1456,Robinson PLC,Bangladesh,Asia,Beauty & Personal Care,0.0,2018-09-20,Jessica Wilson
+1013,Hicks-Cobb,Vietnam,Asia,Apparel,0.0,2016-12-08,Jeffrey Romero
+1273,Terry-Perry,China,Asia,Electronics,1.0,2023-06-21,Samantha Johnson
+1048,Sampson Group,China,Asia,Beauty & Personal Care,1.0,2024-03-05,Jeffrey Richardson
+1204,Shaw and Sons,Germany,Europe,Toys & Games,0.0,2019-04-17,Curtis Wilson
+1478,Miller-Pierce,Brazil,,Toys & Games,1.0,2021-06-21,Mr. Daniel Ward DVM
+1120,"Mcgee, Schultz and Wilson",China,Asia,Toys & Games,0.0,2019-03-16,Autumn Singh
+1022,Hardy LLC,CHINA,Asia,Home Goods,1.0,2022-01-11,Cynthia Boyd
+1403,Mayo-Daniels,China,Asia,Beauty & Personal Care,0.0,2017-12-19,Dennis Jones
+1084,floyd group,Vietnam,Asia,Apparel,1.0,2019-09-22,Ronnie Brown
+1131,Shields Group,India,Asia,Electronics,0.0,2017-07-20,Jeffrey Wallace
+1457,Smith LLC,India,Asia,Toys & Games,0.0,2017-10-26,Nicole Richardson
+1494,garcia-becker,Mexico,Americas,Home Goods,1.0,2018-04-23,Brian Jenkins
+1330,Carter PLC,Italy,Europe,Beauty & Personal Care,1.0,2021-10-05,Donald Wilson
+1230,Anderson-Howard,Bangladesh,Asia,Toys & Games,0.0,2021-06-03,Jeffrey Murphy
+1311,Washington-Carter ,Mexico,Americas,Beauty & Personal Care,0.0,2019-09-25,Eric Smith
+1287,Powers Group,India,Asia,Home Goods,1.0,2022-10-11,Lisa Saunders
+1124,"Cochran, Perry And Castillo",Poland,Europe,Apparel,1.0,2023-10-29,Ms. Theresa Richardson
+1034,Spears-Cross,Turkey,Europe,Home Goods,0.0,2021-12-06,Kellie Brown
+1486,"Miller, Gallegos and Aguirre",China,Asia,,1.0,2017-11-19,Kaitlin Lewis
+1005,norman-brady,bangladesh,Asia,Food & Beverage,0.0,2024-01-12,Todd Thompson
+1412,Robbins-Acosta,Vietnam,,Food & Beverage,1.0,2020-09-11,Kimberly Davis
+1020,Mitchell PLC,India,Asia,Beauty & Personal Care,0.0,2016-08-26,Brittany Kennedy
+1220,Graves Inc,Germany,Europe,Toys & Games,1.0,2020-03-24,Theresa Maldonado
+1380,"woodard, walters and johnson",China,Asia,Beauty & Personal Care,0.0,2021-03-05,Peter Perkins
+1169,"May, Dodson And Hoffman ",VIETNAM,Asia,Home Goods,1.0,2024-07-24,Angel Johnson
+1420,Kramer-Orozco,Bangladesh,Asia,Electronics,1.0,2022-11-02,Elizabeth Kelly
+1357,"Thomas, Lewis and Roberts",Mexico,Americas,Beauty & Personal Care,1.0,2022-01-06,Michelle Johnson
+1150,Clark-Greene,India,,Electronics,0.0,2022-05-15,Jacob Rocha
+1225,"STEWART, COLEMAN AND BARR",Vietnam,Asia,Food & Beverage,1.0,2020-10-14,Jamie Wall
+1248,Smith Inc,Vietnam,Asia,Toys & Games,1.0,2021-10-13,Edwin Washington
+1454,"Ruiz, Fletcher And Beck",Germany,Europe,Food & Beverage,0.0,2020-05-27,Aaron Salinas
+1152,"hampton, daniels and fry",China,Asia,Toys & Games,0.0,2018-12-13,David Johnson
+1493,Golden-Hall,USA,Americas,Beauty & Personal Care,0.0,2024-10-26,Vincent Delacruz
+1318,Le-Ramirez,China,Asia,Beauty & Personal Care,1.0,2022-08-16,Kim Thomas
+1292,taylor plc,China,Asia,Apparel,1.0,2020-05-14,Cindy Floyd
+1234,"Quinn, Wright and Tapia",Italy,Europe,Food & Beverage,0.0,2022-08-09,Christian Mitchell
+1011,clay-jones,China,Asia,Beauty & Personal Care,1.0,2023-12-08,Hannah Brown
+1280,Ferguson-Ward,Italy,Europe,Beauty & Personal Care,,2024-12-31,Justin Foster
+1072,Wright Ltd,Mexico,Americas,Apparel,1.0,2020-09-24,Amy Bradshaw
+1253,"Montgomery, Gallegos and Gonzalez",Brazil,Americas,Electronics,1.0,2023-06-11,Stacy Dunn
+1093,gonzalez-velasquez,Poland,Europe,,0.0,2016-12-28,Robert Jones
+1492,"Kelly, Yang And Soto",BANGLADESH,Asia,Apparel,1.0,2018-11-28,Rachel Mcconnell
+1350,"soto, hickman and wilkins",Mexico,,Apparel,,2023-09-22,Tyler Evans
+1416,Cobb-Levine,Mexico,Americas,Toys & Games,1.0,2019-04-12,Ernest Phillips
+1375,"Berg, Ryan and Wade",USA,Americas,Electronics,0.0,2018-05-25,Jacob Phillips
+1401,"Wilson, Gonzalez and Smith",Indonesia,Asia,Food & Beverage,1.0,2024-06-18,Steven Ramirez
+1193,Silva-Rhodes,Vietnam,Asia,Beauty & Personal Care,1.0,2020-05-30,Alexandra Williams
+1258,Gray-Weaver,USA,Americas,Home Goods,1.0,2021-09-27,Rachel Miller
+1495,"Torres, Taylor And Ford",china,Asia,Beauty & Personal Care,1.0,2016-05-24,Calvin Holmes
+1340,Sanford-Mitchell,China,Asia,Food & Beverage,1.0,2024-11-16,Deanna Logan
+1068,"Joseph, Santiago and Dean ",China,Asia,Electronics,0.0,2018-06-26,Ann Tate
+1196,"Heath, Taylor and Richardson",India,Asia,Apparel,0.0,2018-08-01,Jennifer Mahoney
+1344,"Patel, Castillo and Marshall",India,Asia,Toys & Games,0.0,2017-05-14,Tanya Reid
+1138,BOYD-STEVENSON,Mexico,Americas,Home Goods,0.0,2021-09-21,Lisa Conrad
+1261,JAMES LLC,China,Asia,Toys & Games,1.0,2022-05-31,Elizabeth Ross
+1039,Ballard-Ward,Germany,,Toys & Games,0.0,2020-06-03,Jared Eaton
+1463,"Lewis, Johnson and Foster",China,Asia,Electronics,1.0,2020-02-11,Jocelyn Goodman
+1202,"Thompson, Davis and Clark",India,,Toys & Games,1.0,2021-09-15,Michael Miller
+1481,kennedy-ross,Italy,,Toys & Games,1.0,2024-08-22,Curtis Saunders
+1291,Ray-House,USA,Americas,Home Goods,0.0,2019-04-28,Gail Ayers
+1449,"KING, KIRK AND MARTINEZ",IND,Asia,Home Goods,0.0,2016-10-03,Sean Johnston
+1190,jones plc,China,Asia,Beauty & Personal Care,1.0,2023-01-17,Jennifer Moore
+1252,Allen-Walters,Brazil,Americas,Beauty & Personal Care,1.0,2025-02-04,Hector Mcclure DVM
+1113,Houston PLC,Mexico,Americas,Electronics,1.0,2023-08-27,Christopher Escobar
+1438,"Maynard, Collins and Wood",Mexico,Americas,Beauty & Personal Care,0.0,2017-02-11,Arthur Leblanc
+1184,"Bradshaw, Caldwell and Robertson",Vietnam,Asia,Beauty & Personal Care,0.0,2017-03-31,Daniel Jones
+1153,"MEDINA, MONTES AND CARTER",Vietnam,Asia,Apparel,1.0,2016-05-14,Cameron Padilla
+1313,williams group,Vietnam,Asia,Electronics,0.0,2019-05-13,Steven Pugh
+1326,Williamson-Brown,India,Asia,Apparel,1.0,2022-12-10,Derrick Castaneda
+1192,"sherman, watson and moore",Brazil,,Electronics,1.0,2020-10-30,Christine Bailey
+1045,Hudson-Webster,Germany,Europe,Home Goods,,2023-08-19,Jim Cochran
+1445,Miranda-Mendez,India,Asia,Beauty & Personal Care,1.0,2023-12-05,Jose Mcclain
+1276,"Murphy, Miller and Fuentes",Mexico,Americas,Home Goods,1.0,2016-12-04,Andres Watson
+1007,MCGEE INC,Mexico,Americas,Home Goods,0.0,2022-02-15,Paula Hale
+1251,Thompson and Sons,Indonesia,Asia,Beauty & Personal Care,1.0,2023-01-17,Stephen Ballard
+1312,Robinson-Brooks,Vietnam,Asia,Electronics,0.0,2016-10-10,Tiffany Costa
+1076,Cunningham-Gardner,USA,Americas,Home Goods,0.0,2021-04-04,Natalie Lee
+1001,Hill Ltd,Mexico,Americas,Apparel,0.0,2022-12-27,Shawn Anderson
+1429,"White, Patterson and Cooper",Vietnam,,Beauty & Personal Care,0.0,2017-03-07,Debra Johnson
+1392,Combs-Acevedo,China,Asia,Electronics,1.0,2024-04-14,Damon Jones
+1384,"Reed, Gray and Thomas",Poland,Europe,Food & Beverage,1.0,2021-08-27,Danielle Gardner
+1433,BAUER PLC,India,Asia,Apparel,1.0,2024-11-17,Alexander Guzman PhD
+1069,"Wade, Marshall and Pham",China,Asia,,1.0,2018-01-11,Amy Stevens
+1487,Cantu and Sons,Bangladesh,Asia,Electronics,,2018-06-12,Nicole Graves
+1168,Hunter-Gonzalez,Italy,Europe,Home Goods,0.0,2023-12-02,Alison Miller
+1393,Gonzalez LLC,IND,Asia,Apparel,0.0,2016-11-21,Robert Hall
+1219,"Bauer, Campbell and Quinn",India,Asia,Electronics,0.0,2016-10-24,Andrea Morris
+1043,Bell-Petersen,China,Asia,Food & Beverage,0.0,2017-12-18,Rachel Vargas
+1367,"Jones, Andrews And Hopkins",India,Asia,Beauty & Personal Care,,2017-03-19,Jennifer Russell
+1346,Thomas Group,USA,Americas,,1.0,2022-12-10,Kimberly Scott
+1073,George Ltd,Vietnam,Asia,Beauty & Personal Care,1.0,2021-06-09,Joel Padilla
+1024,Gonzales and Sons,China,Asia,Beauty & Personal Care,0.0,2022-08-16,Daniel Carter
+1399,"williams, forbes and soto",china,Asia,Home Goods,0.0,2022-01-04,Kelly Miller
+1186,"Parker, Webb and Green",Germany,Europe,Electronics,0.0,2021-11-30,Sarah Cruz
+1349,Stevens PLC,Bangladesh,Asia,Apparel,0.0,2022-01-06,Julie Johnston
+1104,"ross, bowers and mann",India,Asia,Electronics,,2024-03-21,Jeffery Luna
+1408,Murphy PLC,Indonesia,Asia,Food & Beverage,0.0,2019-12-08,Susan Jones
+1212,Williamson Ltd,Vietnam,,Home Goods,1.0,2022-04-23,Theresa Blair DDS
+1068,"Joseph, Santiago and Dean",China,Asia,Electronics,0.0,2018-06-26,Ann Tate
+1048,Sampson Group ,China,Asia,Beauty & Personal Care,1.0,2024-03-05,Jeffrey Richardson
+1197,"Nelson, House and Orozco",China,Asia,Electronics,1.0,2021-08-09,Tiffany Flynn
+1176,Stanton PLC,USA,Americas,Home Goods,0.0,2025-04-21,Marissa Washington
