@@ -1,0 +1,501 @@
+supplier_id,supplier_name,country,product_category,single_source_flag,on_time_delivery_rate,financial_stress_score,disruption_count,relationship_tenure_yrs,supplier_failure,failure_probability,risk_score_pct,risk_tier,rank
+1098,Burton And Sons,Vietnam,Food & Beverage,1,0.695,6.06,0.0,5.57,1,0.9996,100.0,CRITICAL,1
+1348,"Powell, Bartlett And Ruiz",China,Food & Beverage,0,0.436,6.95,3.0,8.15,1,0.9993,99.9,CRITICAL,2
+1296,Yoder Llc,Bangladesh,Beauty & Personal Care,0,0.695,10.0,3.0,7.92,1,0.9992,99.9,CRITICAL,3
+1498,"Willis, Smith And Carey",China,Electronics,1,0.453,10.0,2.0,2.55,1,0.9992,99.9,CRITICAL,4
+1339,"Osborne, Stevens And Ward",Mexico,Electronics,0,0.677,7.03,3.0,2.14,1,0.9991,99.9,CRITICAL,5
+1190,Jones Plc,China,Beauty & Personal Care,1,0.715,10.0,4.0,3.29,1,0.9991,99.9,CRITICAL,6
+1485,Tanner-Simmons,China,Beauty & Personal Care,0,0.665,1.625,4.0,7.27,1,0.9989,99.9,CRITICAL,7
+1500,Jordan And Sons,Turkey,Electronics,0,0.718,10.0,3.0,1.13,1,0.9989,99.9,CRITICAL,8
+1495,"Torres, Taylor And Ford",China,Beauty & Personal Care,1,0.644,10.0,0.0,9.94,1,0.9987,99.9,CRITICAL,9
+1460,Estes And Sons,China,Food & Beverage,0,0.675,6.51,1.0,3.61,1,0.9986,99.9,CRITICAL,10
+1312,Robinson-Brooks,Vietnam,Electronics,0,0.605,5.99,1.0,9.56,1,0.9984,99.8,CRITICAL,11
+1394,Walker-Walker,India,Beauty & Personal Care,1,0.599,6.16,0.0,2.35,1,0.9984,99.8,CRITICAL,12
+1281,Diaz-Gibson,China,Electronics,0,0.584,9.48,1.0,7.73,1,0.9982,99.8,CRITICAL,13
+1173,Smith Llc,China,Food & Beverage,1,0.695,1.625,3.0,6.84,1,0.9982,99.8,CRITICAL,14
+1153,"Medina, Montes And Carter",Vietnam,Apparel,1,0.62,7.98,2.0,9.97,1,0.9978,99.8,CRITICAL,15
+1162,Chang-Riggs,Bangladesh,Beauty & Personal Care,1,0.685,7.78,0.0,3.49,1,0.9975,99.7,CRITICAL,16
+1231,"Lee, Willis And Frazier",India,Beauty & Personal Care,1,0.471,7.3,0.0,1.97,1,0.9974,99.7,CRITICAL,17
+1024,Gonzales And Sons,China,Beauty & Personal Care,0,0.683,9.38,0.0,3.72,1,0.9973,99.7,CRITICAL,18
+1140,Garcia Inc,India,Electronics,1,0.619,4.82,3.0,4.96,1,0.9972,99.7,CRITICAL,19
+1104,"Ross, Bowers And Mann",India,Electronics,0,0.667,5.96,1.0,2.12,1,0.9971,99.7,CRITICAL,20
+1262,"Wilson, Velasquez And Watts",Bangladesh,Food & Beverage,0,0.695,1.625,3.0,7.32,1,0.997,99.7,CRITICAL,21
+1134,Wade-Smith,China,Home Goods,1,0.658,2.73,3.0,9.07,1,0.997,99.7,CRITICAL,22
+1025,Johnston-Estes,China,Food & Beverage,0,0.592,7.09,2.0,1.04,1,0.997,99.7,CRITICAL,23
+1017,Gallegos Llc,Vietnam,Apparel,0,0.688,1.625,4.0,9.32,1,0.9968,99.7,CRITICAL,24
+1124,"Cochran, Perry And Castillo",Poland,Apparel,1,0.678,1.18,3.0,2.51,1,0.9967,99.7,CRITICAL,25
+1320,Lynch-Martin,Mexico,Food & Beverage,0,0.665,1.02,3.0,4.58,1,0.9966,99.7,CRITICAL,26
+1422,Brown-Strong,Indonesia,Electronics,1,0.66,7.07,1.0,4.12,1,0.9962,99.6,CRITICAL,27
+1286,"Campbell, Vargas And Boone",China,Beauty & Personal Care,0,0.705,5.67,0.0,6.71,1,0.996,99.6,CRITICAL,28
+1010,"Conway, Ray And Moore",Bangladesh,Beauty & Personal Care,1,0.506,1.625,1.0,5.08,1,0.9959,99.6,CRITICAL,29
+1006,Fitzgerald Llc,China,Electronics,1,0.659,1.61,4.0,5.82,1,0.9955,99.5,CRITICAL,30
+1413,Hernandez-Thomas,Turkey,Toys & Games,0,0.626,8.98,1.0,9.43,1,0.9955,99.6,CRITICAL,31
+1310,"Johnson, Knight And Parker",Mexico,Home Goods,1,0.683,1.625,3.0,3.67,1,0.9955,99.6,CRITICAL,32
+1229,Rodriguez-Benitez,Brazil,Food & Beverage,1,0.695,1.625,3.0,7.76,1,0.9951,99.5,CRITICAL,33
+1414,Wolfe-Kirby,India,Electronics,0,0.708,1.625,3.0,1.28,1,0.9949,99.5,CRITICAL,34
+1039,Ballard-Ward,Germany,Toys & Games,0,0.695,6.05,2.0,5.92,1,0.9949,99.5,CRITICAL,35
+1188,Jordan-Ortiz,Indonesia,Unknown,0,0.699,1.625,3.0,6.75,1,0.9949,99.5,CRITICAL,36
+1424,Taylor Llc,China,Home Goods,1,0.566,1.63,0.0,5.93,1,0.9949,99.5,CRITICAL,37
+1434,Simmons And Sons,Brazil,Electronics,0,0.577,7.65,2.0,2.21,1,0.9948,99.5,CRITICAL,38
+1227,Robinson-Salazar,India,Electronics,1,0.59,7.59,0.0,9.05,1,0.9948,99.5,CRITICAL,39
+1450,Young Group,Mexico,Home Goods,0,0.594,1.625,3.0,8.03,1,0.9947,99.5,CRITICAL,40
+1241,"Moore, Matthews And Duke",Vietnam,Electronics,1,0.6,1.0,0.0,9.99,1,0.9947,99.5,CRITICAL,41
+1294,"Dunn, Hernandez And Sanchez",China,Food & Beverage,0,0.535,1.79,1.0,6.72,1,0.9946,99.5,CRITICAL,42
+1195,"Nelson, Howard And Wiley",China,Beauty & Personal Care,1,0.692,1.625,4.0,2.59,1,0.9944,99.4,CRITICAL,43
+1072,Wright Ltd,Mexico,Apparel,1,0.657,1.625,3.0,5.61,1,0.9944,99.4,CRITICAL,44
+1455,Copeland-Cooley,Vietnam,Toys & Games,1,0.695,2.67,1.0,8.44,1,0.9941,99.4,CRITICAL,45
+1343,Marks-Patel,Bangladesh,Food & Beverage,0,0.626,1.625,1.0,3.76,1,0.9941,99.4,CRITICAL,46
+1095,"Willis, Hicks And Thompson",Vietnam,Food & Beverage,1,0.629,3.95,4.0,5.43,1,0.9938,99.4,CRITICAL,47
+1378,"Fox, Thomas And Powell",China,Food & Beverage,0,0.633,8.93,1.0,1.35,1,0.9937,99.4,CRITICAL,48
+1250,Smith Ltd,China,Apparel,0,0.606,1.0,3.0,1.31,1,0.9936,99.4,CRITICAL,49
+1362,Simon-Wells,China,Food & Beverage,1,0.695,7.16,2.0,1.03,1,0.9933,99.3,CRITICAL,50
+1428,Henson Inc,China,Food & Beverage,0,0.695,4.34,0.0,7.44,1,0.9933,99.3,CRITICAL,51
+1043,Bell-Petersen,China,Food & Beverage,0,0.578,1.625,1.0,8.38,1,0.9932,99.3,CRITICAL,52
+1244,Sanchez And Sons,China,Electronics,1,0.593,1.625,0.0,2.46,1,0.9929,99.3,CRITICAL,53
+1040,"Erickson, Montoya And Hall",China,Electronics,0,0.605,6.75,1.0,6.51,1,0.9925,99.2,CRITICAL,54
+1221,Orr-Padilla,Indonesia,Beauty & Personal Care,1,0.692,1.0,3.0,4.24,1,0.9918,99.2,CRITICAL,55
+1087,Williams Ltd,China,Electronics,0,0.684,5.53,1.0,4.94,1,0.9914,99.1,CRITICAL,56
+1453,Duncan-Ward,India,Home Goods,0,0.7,1.625,2.0,3.37,1,0.9906,99.1,CRITICAL,57
+1023,Payne Ltd,Vietnam,Food & Beverage,1,0.668,1.0,4.0,6.65,1,0.9902,99.0,CRITICAL,58
+1048,Sampson Group,China,Beauty & Personal Care,1,0.66,1.86,2.0,2.16,1,0.9897,99.0,CRITICAL,59
+1068,"Joseph, Santiago And Dean",China,Electronics,0,0.752,7.61,1.0,7.85,1,0.9896,99.0,CRITICAL,60
+1082,"Moran, Trujillo And Long",China,Home Goods,0,0.629,1.625,1.0,4.67,1,0.9891,98.9,CRITICAL,61
+1240,"Thomas, Walker And Silva",Mexico,Food & Beverage,0,0.494,1.05,0.0,4.96,1,0.9882,98.8,CRITICAL,62
+1354,Martinez-Wolf,Bangladesh,Apparel,0,0.573,1.0,1.0,9.74,1,0.9882,98.8,CRITICAL,63
+1356,Frank-Flores,Italy,Apparel,0,0.458,1.625,1.0,2.01,1,0.9847,98.5,CRITICAL,64
+1109,"Bass, Tapia And Bartlett",Turkey,Unknown,1,0.719,1.0,3.0,2.34,1,0.9833,98.3,CRITICAL,65
+1029,Ramirez Llc,India,Apparel,1,0.717,2.34,0.0,6.34,1,0.9823,98.2,CRITICAL,66
+1111,Allen-Cruz,Italy,Apparel,0,0.6,7.02,0.0,8.54,1,0.9821,98.2,CRITICAL,67
+1317,Davis Inc,Bangladesh,Home Goods,0,0.834,5.76,3.0,7.32,1,0.9787,97.9,CRITICAL,68
+1418,Robinson Group,China,Beauty & Personal Care,1,0.76,10.0,0.0,9.68,1,0.9784,97.8,CRITICAL,69
+1432,Patterson Ltd,China,Beauty & Personal Care,1,0.612,1.0,2.0,7.56,1,0.9766,97.7,CRITICAL,70
+1089,Koch-Brown,China,Home Goods,1,0.695,1.625,1.0,7.52,1,0.9722,97.2,CRITICAL,71
+1280,Ferguson-Ward,Italy,Beauty & Personal Care,0,0.674,9.21,1.0,1.34,1,0.9694,96.9,CRITICAL,72
+1022,Hardy Llc,China,Home Goods,1,0.657,3.16,0.0,4.31,1,0.9648,96.5,CRITICAL,73
+1463,"Lewis, Johnson And Foster",China,Electronics,1,0.72,1.0,2.0,6.23,0,0.9406,94.1,CRITICAL,74
+1340,Sanford-Mitchell,China,Food & Beverage,1,0.669,1.08,1.0,1.46,1,0.8515,85.1,CRITICAL,75
+1292,Taylor Plc,China,Apparel,1,0.633,1.0,0.0,5.97,1,0.5719,57.2,HIGH,76
+1246,Graham And Sons,India,Toys & Games,0,0.727,8.29,2.0,2.3,0,0.4922,49.2,HIGH,77
+1069,"Wade, Marshall And Pham",China,Unknown,1,0.634,5.18,1.0,8.31,0,0.1712,17.1,LOW,78
+1401,"Wilson, Gonzalez And Smith",Indonesia,Food & Beverage,1,0.745,6.82,2.0,1.88,0,0.1054,10.5,LOW,79
+1100,"Lucas, Adams And Ewing",China,Apparel,1,0.732,8.51,0.0,4.12,0,0.0895,9.0,LOW,80
+1322,Sanchez Llc,Bangladesh,Beauty & Personal Care,0,0.685,1.625,0.0,9.24,0,0.0886,8.9,LOW,81
+1364,Mathis-Padilla,Turkey,Electronics,1,0.73,5.69,1.0,6.32,0,0.0761,7.6,LOW,82
+1145,"Hendricks, Ferguson And Wright",Mexico,Beauty & Personal Care,1,0.877,10.0,1.0,7.76,0,0.0713,7.1,LOW,83
+1438,"Maynard, Collins And Wood",Mexico,Beauty & Personal Care,0,0.695,2.61,1.0,9.22,1,0.0673,6.7,LOW,84
+1381,Ortiz Group,Poland,Food & Beverage,1,0.986,6.57,1.0,7.14,0,0.0606,6.1,LOW,85
+1102,Best And Sons,India,Food & Beverage,1,0.695,3.31,0.0,2.09,0,0.0603,6.0,LOW,86
+1475,Boone-Cruz,China,Beauty & Personal Care,1,0.599,2.18,2.0,8.42,0,0.0476,4.8,LOW,87
+1203,Alvarado-Huynh,USA,Toys & Games,1,0.695,4.89,1.0,9.38,0,0.0474,4.7,LOW,88
+1059,Perez Ltd,Bangladesh,Electronics,1,0.669,1.625,0.0,6.61,0,0.0468,4.7,LOW,89
+1457,Smith Llc,India,Toys & Games,0,0.765,1.29,1.0,8.52,0,0.0441,4.4,LOW,90
+1041,"Fischer, Tucker And Russell",China,Electronics,1,0.635,1.625,2.0,4.9,0,0.0378,3.8,LOW,91
+1445,Miranda-Mendez,India,Beauty & Personal Care,1,0.772,6.53,1.0,2.41,0,0.0366,3.7,LOW,92
+1058,Carpenter-Walker,Bangladesh,Beauty & Personal Care,1,0.519,1.28,2.0,8.08,0,0.0366,3.7,LOW,93
+1141,"Wilson, Martinez And Logan",Brazil,Electronics,0,0.845,7.45,0.0,6.22,0,0.0343,3.4,LOW,94
+1160,"Martinez, Velez And Roberts",Vietnam,Beauty & Personal Care,1,0.488,1.0,1.0,5.96,0,0.0336,3.4,LOW,95
+1491,"King, Walker And Tran",China,Beauty & Personal Care,0,0.736,1.0,3.0,8.96,0,0.0329,3.3,LOW,96
+1396,Martin Plc,India,Home Goods,1,0.575,3.02,1.0,4.56,0,0.032,3.2,LOW,97
+1304,Miller-Hayes,Bangladesh,Home Goods,0,0.695,1.0,2.0,7.16,0,0.0313,3.1,LOW,98
+1123,Hill Inc,India,Home Goods,1,0.741,4.97,3.0,4.76,0,0.0311,3.1,LOW,99
+1245,"Cross, Martin And Berry",Germany,Electronics,1,0.791,1.625,1.0,1.96,0,0.0309,3.1,LOW,100
+1234,"Quinn, Wright And Tapia",Italy,Food & Beverage,0,0.729,1.32,5.0,3.73,0,0.0305,3.0,LOW,101
+1081,Peterson-Odonnell,Germany,Home Goods,0,0.962,4.23,4.0,6.12,0,0.0305,3.0,LOW,102
+1263,"Dougherty, Warren And Nelson",Germany,Apparel,0,0.83,1.0,3.0,8.45,0,0.0288,2.9,LOW,103
+1083,"Lee, House And Ochoa",Vietnam,Food & Beverage,0,0.758,1.625,4.0,7.82,0,0.0281,2.8,LOW,104
+1012,Smith And Sons,Indonesia,Electronics,0,0.775,1.0,1.0,5.35,0,0.027,2.7,LOW,105
+1026,"Bryan, Meadows And Cuevas",Turkey,Toys & Games,0,0.552,2.3,0.0,1.96,0,0.0258,2.6,LOW,106
+1147,"Myers, Mendoza And Mason",Bangladesh,Food & Beverage,0,0.55,1.625,1.0,3.69,0,0.0254,2.5,LOW,107
+1018,Sanchez Llc,Bangladesh,Apparel,0,0.596,1.625,1.0,1.75,0,0.0236,2.4,LOW,108
+1499,Mitchell-Anderson,Vietnam,Home Goods,0,0.536,2.95,1.0,4.43,0,0.0233,2.3,LOW,109
+1330,Carter Plc,Italy,Beauty & Personal Care,1,0.753,1.625,3.0,4.58,0,0.0224,2.2,LOW,110
+1014,Beck-Moore,China,Toys & Games,0,0.695,3.66,2.0,6.74,0,0.022,2.2,LOW,111
+1465,Nelson-Smith,China,Toys & Games,1,0.695,1.625,1.0,8.11,0,0.0216,2.2,LOW,112
+1052,"Brown, Fox And Campbell",India,Beauty & Personal Care,1,0.621,2.61,0.0,4.91,0,0.0204,2.0,LOW,113
+1329,Molina Ltd,USA,Food & Beverage,0,0.643,4.52,1.0,5.61,0,0.0197,2.0,LOW,114
+1324,Zimmerman-Woodward,Mexico,Food & Beverage,0,0.535,3.17,1.0,6.75,0,0.0193,1.9,LOW,115
+1176,Stanton Plc,USA,Home Goods,0,0.66,2.94,1.0,1.03,0,0.0189,1.9,LOW,116
+1379,Garrison Ltd,Vietnam,Home Goods,0,0.614,2.11,2.0,1.6,0,0.0189,1.9,LOW,117
+1181,"Arnold, Morse And Ramirez",China,Food & Beverage,1,0.517,1.625,0.0,1.6,0,0.018,1.8,LOW,118
+1385,"White, Spencer And Barry",Poland,Electronics,0,0.695,1.0,2.0,3.62,0,0.0178,1.8,LOW,119
+1015,Glover-Ferguson,Poland,Beauty & Personal Care,1,0.636,1.0,2.0,6.68,0,0.0175,1.7,LOW,120
+1409,Meyer-Murray,China,Food & Beverage,0,0.634,3.3,2.0,5.61,0,0.0172,1.7,LOW,121
+1099,Brown-Andrews,Vietnam,Apparel,0,0.812,1.0,2.0,3.02,0,0.0171,1.7,LOW,122
+1038,Clark-Ryan,India,Beauty & Personal Care,0,0.7,3.32,2.0,6.72,0,0.0163,1.6,LOW,123
+1237,Juarez Llc,China,Toys & Games,1,0.578,1.0,0.0,2.88,0,0.0159,1.6,LOW,124
+1142,Jordan-Ayala,Turkey,Food & Beverage,1,0.621,4.76,1.0,5.36,0,0.0153,1.5,LOW,125
+1146,Lee-Robinson,China,Electronics,0,0.743,1.0,4.0,3.52,0,0.0149,1.5,LOW,126
+1208,"Rodriguez, Shaffer And Snyder",China,Apparel,1,0.481,3.04,1.0,8.07,0,0.0148,1.5,LOW,127
+1180,George-Castro,Germany,Toys & Games,0,0.76,1.1,3.0,9.45,0,0.0147,1.5,LOW,128
+1182,Gregory-Mitchell,China,Toys & Games,1,0.405,4.18,2.0,4.26,0,0.0146,1.5,LOW,129
+1323,Myers Llc,Turkey,Electronics,0,0.646,2.28,1.0,2.53,0,0.0145,1.4,LOW,130
+1411,Contreras-Dominguez,China,Apparel,1,0.597,1.0,0.0,4.77,0,0.0142,1.4,LOW,131
+1298,Palmer-Hamilton,USA,Apparel,1,0.695,4.53,2.0,1.77,0,0.0137,1.4,LOW,132
+1103,Lewis-Campos,Bangladesh,Beauty & Personal Care,1,0.563,1.625,1.0,2.93,0,0.0133,1.3,LOW,133
+1035,Hernandez-Lane,Bangladesh,Beauty & Personal Care,0,0.362,1.52,2.0,6.84,0,0.0132,1.3,LOW,134
+1151,Atkins-Jimenez,USA,Unknown,1,0.733,1.0,3.0,6.83,0,0.0132,1.3,LOW,135
+1470,Roberts-Duffy,Brazil,Electronics,0,0.771,1.16,3.0,3.07,0,0.0131,1.3,LOW,136
+1452,Jackson Group,Italy,Toys & Games,1,0.681,1.0,1.0,7.11,0,0.013,1.3,LOW,137
+1230,Anderson-Howard,Bangladesh,Toys & Games,0,0.656,3.32,2.0,4.92,0,0.0129,1.3,LOW,138
+1047,"Young, Scott And Webb",China,Unknown,0,0.624,3.96,0.0,8.35,0,0.0128,1.3,LOW,139
+1199,Lee Plc,Turkey,Food & Beverage,1,0.676,3.19,2.0,9.95,0,0.0126,1.3,LOW,140
+1222,Burns-Anderson,India,Apparel,0,0.803,1.0,3.0,7.64,0,0.0121,1.2,LOW,141
+1051,Rivas Group,Bangladesh,Beauty & Personal Care,0,0.57,1.625,1.0,2.38,0,0.012,1.2,LOW,142
+1157,Flores-Smith,Poland,Beauty & Personal Care,0,0.599,1.625,0.0,5.13,0,0.0119,1.2,LOW,143
+1270,Martinez Group,China,Toys & Games,1,0.787,1.29,3.0,9.24,0,0.0116,1.2,LOW,144
+1442,"Johnson, Gonzalez And Johnson",China,Toys & Games,1,0.886,1.0,3.0,3.16,0,0.0115,1.1,LOW,145
+1393,Gonzalez Llc,India,Apparel,0,0.611,5.29,0.0,9.45,0,0.0114,1.1,LOW,146
+1266,"Norris, Hoover And Pitts",Brazil,Beauty & Personal Care,1,0.69,4.69,0.0,6.39,0,0.0113,1.1,LOW,147
+1417,"Wilson, Edwards And Matthews",India,Home Goods,1,0.622,2.81,1.0,8.4,0,0.0111,1.1,LOW,148
+1009,Hill Ltd,Germany,Unknown,0,0.635,1.625,1.0,5.21,0,0.0111,1.1,LOW,149
+1065,Walters-Brown,China,Home Goods,1,0.552,2.83,1.0,9.89,0,0.0109,1.1,LOW,150
+1152,"Hampton, Daniels And Fry",China,Toys & Games,0,0.616,1.625,1.0,7.39,0,0.0108,1.1,LOW,151
+1268,"White, Alvarez And Martin",India,Electronics,0,0.545,2.16,1.0,6.44,0,0.0107,1.1,LOW,152
+1341,Hoffman-Miller,China,Toys & Games,0,0.657,1.625,2.0,9.92,0,0.0104,1.0,LOW,153
+1185,"Mcdaniel, Montes And Moody",Brazil,Beauty & Personal Care,1,0.515,3.06,1.0,1.11,0,0.0102,1.0,LOW,154
+1471,"Christian, Fox And Weber",Vietnam,Toys & Games,1,0.699,1.0,2.0,2.23,0,0.0102,1.0,LOW,155
+1108,Haney-Mcintyre,Brazil,Beauty & Personal Care,1,0.63,1.0,0.0,1.77,0,0.01,1.0,LOW,156
+1480,Byrd Group,Mexico,Food & Beverage,1,0.608,2.94,1.0,4.15,0,0.01,1.0,LOW,157
+1412,Robbins-Acosta,Vietnam,Food & Beverage,1,0.577,1.0,1.0,5.64,0,0.01,1.0,LOW,158
+1066,Mata-Mendoza,China,Apparel,0,0.555,1.0,1.0,9.34,0,0.0099,1.0,LOW,159
+1406,"Turner, Douglas And Meadows",Brazil,Food & Beverage,1,0.705,1.0,0.0,3.62,0,0.0095,0.9,LOW,160
+1061,"Dixon, Bradley And Stephens",USA,Food & Beverage,1,0.898,1.0,4.0,2.02,0,0.0093,0.9,LOW,161
+1437,"Peterson, Smith And Gallagher",China,Food & Beverage,0,0.55,1.0,1.0,1.37,0,0.0091,0.9,LOW,162
+1131,Shields Group,India,Electronics,0,0.581,1.74,0.0,8.79,0,0.009,0.9,LOW,163
+1267,"Simmons, Dunn And Woods",Mexico,Home Goods,1,0.656,4.63,0.0,8.71,0,0.0084,0.8,LOW,164
+1408,Murphy Plc,Indonesia,Food & Beverage,0,0.667,1.625,1.0,6.4,0,0.0081,0.8,LOW,165
+1042,"Santiago, Brown And Dunn",Vietnam,Beauty & Personal Care,0,0.644,1.0,2.0,7.17,0,0.008,0.8,LOW,166
+1326,Williamson-Brown,India,Apparel,1,0.606,1.98,2.0,3.4,0,0.008,0.8,LOW,167
+1120,"Mcgee, Schultz And Wilson",China,Toys & Games,0,0.678,1.62,1.0,7.13,0,0.0078,0.8,LOW,168
+1479,"Wilson, Griffin And Douglas",Vietnam,Home Goods,0,0.518,1.19,2.0,4.3,0,0.0078,0.8,LOW,169
+1216,"Shepherd, Williams And Archer",China,Apparel,0,0.695,1.625,2.0,7.2,0,0.0075,0.7,LOW,170
+1488,Morales Ltd,Mexico,Toys & Games,0,0.595,4.56,1.0,9.45,0,0.0074,0.7,LOW,171
+1053,Shelton-Larson,China,Apparel,0,0.616,1.625,2.0,9.66,0,0.0073,0.7,LOW,172
+1056,"Anderson, Jordan And Bennett",Vietnam,Toys & Games,1,0.49,1.48,1.0,2.53,0,0.0072,0.7,LOW,173
+1090,Mckinney-Lewis,China,Electronics,1,0.77,1.16,2.0,4.6,0,0.0072,0.7,LOW,174
+1273,Terry-Perry,China,Electronics,1,0.635,2.88,0.0,2.87,0,0.007,0.7,LOW,175
+1275,"Houston, Kim And Roach",Germany,Beauty & Personal Care,0,0.682,2.91,2.0,3.33,0,0.007,0.7,LOW,176
+1486,"Miller, Gallegos And Aguirre",China,Unknown,1,0.532,1.0,2.0,8.45,0,0.0068,0.7,LOW,177
+1062,"May, Taylor And Calderon",Brazil,Toys & Games,1,0.695,2.39,0.0,2.08,0,0.0068,0.7,LOW,178
+1482,Saunders Plc,Poland,Food & Beverage,1,0.695,1.72,1.0,9.39,0,0.0066,0.7,LOW,179
+1365,"Rodgers, Duncan And Owens",Indonesia,Apparel,0,0.695,4.33,1.0,1.24,0,0.0065,0.7,LOW,180
+1316,Carter Ltd,India,Food & Beverage,0,0.632,3.39,0.0,2.14,0,0.0065,0.6,LOW,181
+1242,Adams And Sons,Bangladesh,Home Goods,1,0.546,1.0,1.0,8.46,0,0.0064,0.6,LOW,182
+1397,Calhoun-Pratt,Germany,Toys & Games,1,0.68,1.625,0.0,6.3,0,0.0063,0.6,LOW,183
+1285,"Thompson, Johnson And Armstrong",Mexico,Beauty & Personal Care,0,0.674,1.0,1.0,1.8,0,0.0063,0.6,LOW,184
+1224,"Sanders, Clark And Aguilar",Mexico,Toys & Games,0,0.594,3.82,1.0,8.86,0,0.0062,0.6,LOW,185
+1016,Smith-Wright,Bangladesh,Electronics,0,0.622,1.625,1.0,3.87,0,0.0061,0.6,LOW,186
+1165,Murray-Rubio,India,Food & Beverage,1,0.653,1.625,0.0,4.9,0,0.0059,0.6,LOW,187
+1321,Hall-Ballard,Bangladesh,Toys & Games,1,0.553,1.0,2.0,5.57,0,0.0059,0.6,LOW,188
+1299,Cooper Inc,USA,Home Goods,0,0.807,2.77,1.0,3.89,0,0.0058,0.6,LOW,189
+1198,Wilson Plc,China,Toys & Games,0,0.627,1.625,1.0,8.85,0,0.0057,0.6,LOW,190
+1318,Le-Ramirez,China,Beauty & Personal Care,1,0.742,3.48,0.0,3.72,0,0.0057,0.6,LOW,191
+1302,Luna-Delacruz,India,Beauty & Personal Care,0,0.531,1.625,1.0,6.0,0,0.0057,0.6,LOW,192
+1477,Young Plc,India,Apparel,1,0.494,1.25,1.0,9.97,0,0.0055,0.5,LOW,193
+1290,"Welch, Love And Martin",China,Home Goods,1,0.707,2.47,1.0,2.28,0,0.0055,0.6,LOW,194
+1357,"Thomas, Lewis And Roberts",Mexico,Beauty & Personal Care,1,0.699,1.0,1.0,4.32,0,0.0055,0.5,LOW,195
+1219,"Bauer, Campbell And Quinn",India,Electronics,0,0.412,1.625,0.0,9.52,0,0.0054,0.5,LOW,196
+1116,Lopez Inc,India,Unknown,0,0.708,4.98,0.0,3.82,0,0.0053,0.5,LOW,197
+1342,Rodriguez-Perry,China,Home Goods,1,0.642,3.95,2.0,6.64,0,0.0053,0.5,LOW,198
+1399,"Williams, Forbes And Soto",China,Home Goods,0,0.705,1.0,1.0,4.33,0,0.0053,0.5,LOW,199
+1088,Ward Inc,Vietnam,Unknown,1,0.586,1.94,1.0,4.97,0,0.0052,0.5,LOW,200
+1436,"Davis, Rodriguez And Gutierrez",Mexico,Toys & Games,0,0.698,1.625,0.0,7.95,0,0.0051,0.5,LOW,201
+1392,Combs-Acevedo,China,Electronics,1,0.65,1.3,0.0,2.05,0,0.0051,0.5,LOW,202
+1214,"Jones, Barnett And Powell",Bangladesh,Food & Beverage,1,0.714,4.09,0.0,8.73,0,0.005,0.5,LOW,203
+1228,Garcia-French,China,Electronics,1,0.695,1.625,2.0,1.96,0,0.0049,0.5,LOW,204
+1209,Armstrong-Spencer,China,Beauty & Personal Care,1,0.698,2.49,0.0,7.58,0,0.0049,0.5,LOW,205
+1064,Lewis Group,Mexico,Beauty & Personal Care,1,0.561,1.0,1.0,6.29,0,0.0049,0.5,LOW,206
+1050,Cross-Henry,Italy,Toys & Games,0,0.653,1.625,1.0,5.77,0,0.0049,0.5,LOW,207
+1008,Reed Ltd,China,Beauty & Personal Care,0,0.542,1.0,1.0,6.18,0,0.0048,0.5,LOW,208
+1143,Mcfarland-Miller,Bangladesh,Electronics,1,0.742,1.625,0.0,7.56,0,0.0047,0.5,LOW,209
+1075,"Mccullough, Weaver And Walsh",Vietnam,Toys & Games,1,0.538,1.0,1.0,5.34,0,0.0047,0.5,LOW,210
+1493,Golden-Hall,USA,Beauty & Personal Care,0,0.708,1.625,2.0,1.52,0,0.0047,0.5,LOW,211
+1278,Flores Inc,India,Toys & Games,1,0.695,3.18,1.0,2.79,0,0.0046,0.5,LOW,212
+1404,"Gill, Porter And Larson",Mexico,Apparel,1,0.695,1.74,1.0,1.84,0,0.0046,0.5,LOW,213
+1425,"Sanchez, Aguilar And Jones",China,Electronics,1,0.695,4.17,0.0,8.68,0,0.0046,0.5,LOW,214
+1085,Nelson-Mcneil,China,Toys & Games,1,0.576,1.0,2.0,8.91,0,0.0045,0.4,LOW,215
+1346,Thomas Group,USA,Unknown,1,0.645,4.56,1.0,3.4,0,0.0045,0.5,LOW,216
+1349,Stevens Plc,Bangladesh,Apparel,0,0.641,3.29,1.0,4.32,0,0.0044,0.4,LOW,217
+1384,"Reed, Gray And Thomas",Poland,Food & Beverage,1,0.695,3.55,2.0,4.68,0,0.0044,0.4,LOW,218
+1249,Baker-Brown,India,Apparel,0,0.693,1.68,1.0,9.15,0,0.0044,0.4,LOW,219
+1415,Carson Inc,India,Food & Beverage,1,0.569,1.0,2.0,8.62,0,0.0043,0.4,LOW,220
+1070,Dominguez Group,Brazil,Apparel,1,0.695,1.625,1.0,8.2,0,0.0042,0.4,LOW,221
+1427,Dunn Plc,China,Apparel,0,0.625,1.0,2.0,9.29,0,0.0041,0.4,LOW,222
+1218,Walters Inc,Mexico,Toys & Games,1,0.551,1.625,1.0,2.55,0,0.004,0.4,LOW,223
+1178,Roberts Group,China,Apparel,1,0.695,1.625,1.0,7.32,0,0.0039,0.4,LOW,224
+1429,"White, Patterson And Cooper",Vietnam,Beauty & Personal Care,0,0.695,1.625,2.0,9.16,0,0.0039,0.4,LOW,225
+1183,Johnson Plc,Vietnam,Beauty & Personal Care,0,0.662,1.0,1.0,6.24,0,0.0039,0.4,LOW,226
+1380,"Woodard, Walters And Johnson",China,Beauty & Personal Care,0,0.668,2.35,0.0,5.16,0,0.0038,0.4,LOW,227
+1155,"Ryan, Brown And Ford",Germany,Electronics,1,0.705,1.0,2.0,2.19,0,0.0038,0.4,LOW,228
+1332,Bennett-Wilson,China,Apparel,0,0.557,1.0,1.0,8.94,0,0.0038,0.4,LOW,229
+1444,"Leon, Ortega And Walls",China,Apparel,1,0.695,1.625,1.0,5.86,0,0.0037,0.4,LOW,230
+1419,Kelly Ltd,China,Apparel,1,0.628,4.0,0.0,4.23,0,0.0037,0.4,LOW,231
+1171,Roman Ltd,Turkey,Toys & Games,0,0.559,2.39,0.0,7.79,0,0.0036,0.4,LOW,232
+1303,Stanton-Gutierrez,Italy,Apparel,1,0.638,2.4,1.0,5.31,0,0.0036,0.4,LOW,233
+1071,Smith Group,Mexico,Apparel,1,0.691,1.625,0.0,9.6,0,0.0036,0.4,LOW,234
+1252,Allen-Walters,Brazil,Beauty & Personal Care,1,0.695,1.79,1.0,1.24,0,0.0035,0.3,LOW,235
+1293,Hurst Ltd,Vietnam,Beauty & Personal Care,0,0.63,2.24,0.0,7.88,0,0.0034,0.3,LOW,236
+1276,"Murphy, Miller And Fuentes",Mexico,Home Goods,1,0.679,1.625,1.0,9.41,0,0.0034,0.3,LOW,237
+1125,Hansen-Coleman,China,Apparel,0,0.677,1.0,2.0,5.41,0,0.0034,0.3,LOW,238
+1057,Gonzales-Smith,Bangladesh,Electronics,1,0.691,1.0,1.0,3.86,0,0.0033,0.3,LOW,239
+1313,Williams Group,Vietnam,Electronics,0,0.695,1.12,2.0,6.98,0,0.0033,0.3,LOW,240
+1154,Medina-Foley,Vietnam,Home Goods,1,0.632,2.27,0.0,9.79,0,0.0032,0.3,LOW,241
+1352,Hodge-Gonzalez,China,Beauty & Personal Care,0,0.701,2.81,2.0,6.32,0,0.0032,0.3,LOW,242
+1358,Horton-Gonzalez,Indonesia,Electronics,1,0.578,1.625,1.0,1.39,0,0.0032,0.3,LOW,243
+1168,Hunter-Gonzalez,Italy,Home Goods,0,0.624,1.625,2.0,2.42,0,0.0032,0.3,LOW,244
+1269,Hayes-Rivera,Bangladesh,Toys & Games,1,0.665,1.0,0.0,4.31,0,0.0031,0.3,LOW,245
+1226,Cooper Group,Brazil,Apparel,1,0.664,1.0,1.0,6.04,0,0.0031,0.3,LOW,246
+1319,Dennis-Casey,China,Apparel,1,0.695,1.625,1.0,3.33,0,0.0031,0.3,LOW,247
+1295,Knapp Group,India,Food & Beverage,0,0.695,3.59,0.0,2.72,0,0.0031,0.3,LOW,248
+1274,Hernandez Plc,China,Unknown,0,0.607,1.35,0.0,2.11,0,0.0031,0.3,LOW,249
+1121,Lucas-Johnson,Germany,Food & Beverage,1,0.618,2.13,0.0,9.91,0,0.0031,0.3,LOW,250
+1175,Mcmahon-Young,China,Food & Beverage,0,0.66,1.0,0.0,7.64,0,0.0031,0.3,LOW,251
+1027,Turner-Clark,Germany,Electronics,0,0.695,1.0,2.0,5.41,0,0.003,0.3,LOW,252
+1351,"Odonnell, Hughes And Briggs",India,Electronics,1,0.685,1.02,1.0,3.04,0,0.003,0.3,LOW,253
+1391,"Weeks, Richardson And Hampton",Indonesia,Food & Beverage,1,0.665,1.625,0.0,9.11,0,0.0029,0.3,LOW,254
+1430,"Anderson, Mclean And Reed",China,Electronics,1,0.695,1.0,2.0,3.93,0,0.0029,0.3,LOW,255
+1067,"Mathis, Skinner And Walker",Mexico,Apparel,0,0.622,1.0,0.0,3.58,0,0.0029,0.3,LOW,256
+1372,"Henderson, Lee And Weaver",Vietnam,Beauty & Personal Care,0,0.574,1.0,2.0,3.73,0,0.0029,0.3,LOW,257
+1036,Ball Group,Mexico,Beauty & Personal Care,1,0.601,1.625,0.0,5.28,0,0.0029,0.3,LOW,258
+1122,Barnett-Ayala,China,Electronics,1,0.695,3.33,1.0,3.56,0,0.0029,0.3,LOW,259
+1403,Mayo-Daniels,China,Beauty & Personal Care,0,0.695,2.62,2.0,8.37,0,0.0029,0.3,LOW,260
+1077,"Romero, Ellison And Anderson",Brazil,Food & Beverage,1,0.563,4.45,0.0,2.7,0,0.0028,0.3,LOW,261
+1476,Baker Llc,China,Unknown,0,0.604,2.61,1.0,8.53,0,0.0028,0.3,LOW,262
+1192,"Sherman, Watson And Moore",Brazil,Electronics,1,0.557,1.49,0.0,5.51,0,0.0028,0.3,LOW,263
+1119,"Mills, Hood And Pham",Vietnam,Toys & Games,1,0.591,1.56,0.0,4.1,0,0.0027,0.3,LOW,264
+1345,Spencer Group,Vietnam,Electronics,0,0.677,1.0,1.0,6.22,0,0.0027,0.3,LOW,265
+1375,"Berg, Ryan And Wade",USA,Electronics,0,0.663,1.0,0.0,7.94,0,0.0027,0.3,LOW,266
+1344,"Patel, Castillo And Marshall",India,Toys & Games,0,0.701,2.08,1.0,8.97,0,0.0027,0.3,LOW,267
+1167,Smith-Landry,Mexico,Electronics,0,0.781,3.66,1.0,7.72,0,0.0026,0.3,LOW,268
+1301,Young-Kim,India,Food & Beverage,0,0.658,1.0,1.0,2.52,0,0.0026,0.3,LOW,269
+1210,Thompson Plc,China,Apparel,0,0.582,1.0,0.0,9.28,0,0.0026,0.3,LOW,270
+1201,Gonzalez-Reid,Bangladesh,Apparel,1,0.724,1.625,1.0,8.24,0,0.0026,0.3,LOW,271
+1426,"Ross, Nunez And Jones",Vietnam,Apparel,0,0.499,1.0,0.0,7.32,0,0.0025,0.3,LOW,272
+1277,Patel Inc,China,Beauty & Personal Care,0,0.733,1.625,1.0,4.59,0,0.0025,0.2,LOW,273
+1464,"Watson, Garcia And Guerrero",Mexico,Beauty & Personal Care,1,0.718,2.29,1.0,2.38,0,0.0025,0.3,LOW,274
+1407,Thompson Inc,China,Home Goods,0,0.675,1.625,0.0,6.3,0,0.0025,0.3,LOW,275
+1451,Ray-James,Mexico,Beauty & Personal Care,0,0.71,4.39,1.0,2.34,0,0.0025,0.2,LOW,276
+1166,"Matthews, King And Reed",China,Beauty & Personal Care,0,0.74,4.01,1.0,6.7,0,0.0025,0.3,LOW,277
+1435,"Macdonald, Flynn And Stanley",China,Unknown,0,0.707,1.0,0.0,5.33,0,0.0024,0.2,LOW,278
+1264,"Matthews, Wright And Acosta",China,Toys & Games,1,0.695,1.15,1.0,6.08,0,0.0024,0.2,LOW,279
+1306,"Jordan, Davies And Murray",Bangladesh,Home Goods,0,0.628,1.0,2.0,2.0,0,0.0024,0.2,LOW,280
+1054,Hanson Llc,India,Food & Beverage,0,0.728,1.625,2.0,7.45,0,0.0023,0.2,LOW,281
+1028,Bowman-Frederick,Indonesia,Home Goods,1,0.691,1.0,2.0,5.46,0,0.0023,0.2,LOW,282
+1073,George Ltd,Vietnam,Beauty & Personal Care,1,0.645,1.0,0.0,4.9,0,0.0023,0.2,LOW,283
+1158,Nash Plc,Mexico,Electronics,1,0.716,1.0,2.0,2.37,0,0.0023,0.2,LOW,284
+1398,Erickson Llc,Mexico,Toys & Games,1,0.648,1.625,0.0,9.17,0,0.0023,0.2,LOW,285
+1336,Larson-Baker,China,Food & Beverage,0,0.685,1.0,0.0,7.86,0,0.0023,0.2,LOW,286
+1494,Garcia-Becker,Mexico,Home Goods,1,0.538,1.31,1.0,8.03,0,0.0022,0.2,LOW,287
+1238,"Murray, Nguyen And Oliver",China,Toys & Games,1,0.61,1.0,1.0,1.48,0,0.0022,0.2,LOW,288
+1169,"May, Dodson And Hoffman",Vietnam,Home Goods,1,0.642,4.54,0.0,1.78,0,0.0022,0.2,LOW,289
+1086,Hughes-Hunter,Vietnam,Toys & Games,0,0.731,1.625,0.0,4.17,0,0.0022,0.2,LOW,290
+1202,"Thompson, Davis And Clark",India,Toys & Games,1,0.596,1.37,0.0,4.63,0,0.0022,0.2,LOW,291
+1161,"Perry, Stone And Webb",China,Home Goods,1,0.695,1.17,2.0,6.72,0,0.0022,0.2,LOW,292
+1136,Hopkins Llc,Poland,Apparel,1,0.687,1.35,0.0,3.92,0,0.0021,0.2,LOW,293
+1458,Burton-Lopez,China,Home Goods,1,0.664,1.0,0.0,6.81,0,0.0021,0.2,LOW,294
+1129,Hardy-Gomez,China,Home Goods,1,0.654,3.59,0.0,1.89,0,0.0021,0.2,LOW,295
+1449,"King, Kirk And Martinez",India,Home Goods,0,0.604,1.625,0.0,9.58,0,0.0021,0.2,LOW,296
+1390,"Mcpherson, Coleman And Ruiz",India,Apparel,0,0.654,1.0,0.0,8.04,0,0.0021,0.2,LOW,297
+1360,Marquez-Wright,China,Beauty & Personal Care,1,0.705,1.0,0.0,2.73,0,0.0021,0.2,LOW,298
+1395,Chambers Plc,Vietnam,Apparel,0,0.595,1.1,1.0,2.26,0,0.0021,0.2,LOW,299
+1106,York-Smith,China,Toys & Games,0,0.592,1.0,1.0,7.18,0,0.0021,0.2,LOW,300
+1489,Martinez Inc,Bangladesh,Home Goods,1,0.695,1.0,0.0,5.84,0,0.002,0.2,LOW,301
+1206,Rosario-Hahn,India,Beauty & Personal Care,0,0.695,1.0,1.0,3.88,0,0.002,0.2,LOW,302
+1492,"Kelly, Yang And Soto",Bangladesh,Apparel,1,0.633,2.28,0.0,7.43,0,0.002,0.2,LOW,303
+1363,Nelson Plc,India,Apparel,0,0.615,3.39,1.0,3.24,0,0.002,0.2,LOW,304
+1044,"Weber, Hines And Barnes",Mexico,Food & Beverage,1,0.538,1.0,0.0,1.11,0,0.002,0.2,LOW,305
+1170,Branch-Stone,Indonesia,Electronics,0,0.858,1.0,1.0,7.12,0,0.0019,0.2,LOW,306
+1466,Moran-Melendez,Italy,Beauty & Personal Care,0,0.667,1.0,1.0,1.65,0,0.0019,0.2,LOW,307
+1496,King-Thomas,Mexico,Apparel,1,0.694,1.625,0.0,1.79,0,0.0019,0.2,LOW,308
+1097,Bailey Inc,Germany,Apparel,1,0.698,1.0,2.0,2.77,0,0.0018,0.2,LOW,309
+1462,"Greene, Golden And Payne",China,Beauty & Personal Care,0,0.686,2.88,0.0,1.24,0,0.0018,0.2,LOW,310
+1019,"Thomas, Richards And Ortiz",Vietnam,Toys & Games,0,0.589,1.0,0.0,6.49,0,0.0018,0.2,LOW,311
+1328,"Conner, Meza And Boyle",Bangladesh,Toys & Games,0,0.655,1.0,1.0,1.56,0,0.0018,0.2,LOW,312
+1060,Perry And Sons,Bangladesh,Food & Beverage,0,0.708,1.0,1.0,1.48,0,0.0018,0.2,LOW,313
+1196,"Heath, Taylor And Richardson",India,Apparel,0,0.713,2.3,2.0,7.76,0,0.0018,0.2,LOW,314
+1130,Howard-Williams,India,Apparel,0,0.652,2.59,1.0,6.76,0,0.0018,0.2,LOW,315
+1189,White Llc,India,Apparel,1,0.72,3.11,1.0,8.76,0,0.0017,0.2,LOW,316
+1333,"Buck, Wolf And Duran",Brazil,Apparel,1,0.695,1.53,0.0,6.5,0,0.0017,0.2,LOW,317
+1172,Fletcher Inc,China,Home Goods,1,0.695,1.625,0.0,4.2,0,0.0017,0.2,LOW,318
+1033,"Hines, Lowe And Velez",USA,Apparel,1,0.588,1.98,0.0,9.62,0,0.0017,0.2,LOW,319
+1421,Beltran Ltd,Brazil,Beauty & Personal Care,0,0.638,1.625,1.0,3.77,0,0.0017,0.2,LOW,320
+1283,Walker Group,Indonesia,Apparel,1,0.695,1.0,0.0,9.01,0,0.0016,0.2,LOW,321
+1239,Hogan Llc,Brazil,Apparel,0,0.609,1.0,1.0,7.49,0,0.0016,0.2,LOW,322
+1376,Williams-Harper,Poland,Toys & Games,0,0.657,1.0,0.0,3.21,0,0.0016,0.2,LOW,323
+1410,"Johnson, Buckley And Welch",Brazil,Food & Beverage,0,0.695,1.76,0.0,6.39,0,0.0016,0.2,LOW,324
+1197,"Nelson, House And Orozco",China,Electronics,1,0.695,2.14,1.0,4.73,0,0.0016,0.2,LOW,325
+1443,Swanson-Silva,China,Electronics,1,0.671,1.0,0.0,4.81,0,0.0016,0.2,LOW,326
+1297,"Scott, Bates And Davenport",USA,Food & Beverage,0,0.758,5.04,0.0,7.91,0,0.0015,0.1,LOW,327
+1055,"Robinson, Williams And Brown",China,Beauty & Personal Care,1,0.706,1.0,1.0,4.98,0,0.0015,0.2,LOW,328
+1315,Ortiz-Grimes,Vietnam,Unknown,1,0.725,1.625,1.0,7.02,0,0.0015,0.1,LOW,329
+1133,Massey And Sons,USA,Unknown,0,0.82,1.625,1.0,9.32,0,0.0015,0.1,LOW,330
+1374,Weber Llc,China,Unknown,1,0.67,1.45,0.0,6.67,0,0.0015,0.2,LOW,331
+1382,Perez Plc,Poland,Beauty & Personal Care,1,0.704,3.95,0.0,1.26,0,0.0015,0.2,LOW,332
+1359,Aguilar Group,India,Beauty & Personal Care,0,0.695,1.36,1.0,6.02,0,0.0014,0.1,LOW,333
+1149,Wilcox-Miller,China,Toys & Games,1,0.715,1.79,0.0,4.1,0,0.0014,0.1,LOW,334
+1179,Santos-Anderson,Vietnam,Electronics,0,0.625,1.0,1.0,7.35,0,0.0014,0.1,LOW,335
+1148,Casey-Bauer,China,Toys & Games,1,0.695,1.1,0.0,5.22,0,0.0014,0.1,LOW,336
+1030,"Marquez, Weaver And Simon",Turkey,Electronics,0,0.616,1.0,1.0,9.89,0,0.0014,0.1,LOW,337
+1368,"Walker, Lee And Simpson",China,Beauty & Personal Care,1,0.641,1.9,1.0,5.48,0,0.0014,0.1,LOW,338
+1456,Robinson Plc,Bangladesh,Beauty & Personal Care,0,0.581,1.0,0.0,7.62,0,0.0013,0.1,LOW,339
+1115,Richardson And Sons,India,Food & Beverage,1,0.658,1.0,0.0,1.05,0,0.0013,0.1,LOW,340
+1114,Brown Plc,Mexico,Electronics,1,0.695,1.625,0.0,6.4,0,0.0013,0.1,LOW,341
+1128,Simon Ltd,Germany,Toys & Games,1,0.695,1.0,1.0,2.09,0,0.0013,0.1,LOW,342
+1473,Sanchez-Brown,China,Beauty & Personal Care,0,0.753,2.6,0.0,8.84,0,0.0013,0.1,LOW,343
+1078,"Montgomery, Mendoza And Poole",China,Electronics,1,0.695,1.18,1.0,1.95,0,0.0013,0.1,LOW,344
+1446,"Morrison, Nelson And Hernandez",India,Food & Beverage,0,0.695,2.72,1.0,8.71,0,0.0012,0.1,LOW,345
+1233,Castro Llc,China,Food & Beverage,0,0.715,1.0,2.0,3.15,0,0.0012,0.1,LOW,346
+1191,Mccoy Llc,Mexico,Electronics,1,0.695,1.0,1.0,3.89,0,0.0012,0.1,LOW,347
+1101,"Johnson, Russell And Dunn",India,Food & Beverage,0,0.695,1.05,1.0,2.11,0,0.0011,0.1,LOW,348
+1177,Charles Llc,Turkey,Apparel,0,0.732,2.61,0.0,6.62,0,0.0011,0.1,LOW,349
+1235,"Ortiz, Morrison And Taylor",China,Toys & Games,0,0.712,1.25,1.0,8.18,0,0.0011,0.1,LOW,350
+1232,Nelson-Skinner,Brazil,Electronics,0,0.695,1.0,2.0,3.35,0,0.0011,0.1,LOW,351
+1223,Bryant-Gibson,India,Beauty & Personal Care,1,0.706,1.0,1.0,3.92,0,0.001,0.1,LOW,352
+1448,Hill Group,USA,Toys & Games,0,0.695,3.6,1.0,2.51,0,0.001,0.1,LOW,353
+1225,"Stewart, Coleman And Barr",Vietnam,Food & Beverage,1,0.695,1.0,1.0,5.55,0,0.001,0.1,LOW,354
+1137,Perry And Sons,China,Toys & Games,1,0.695,1.0,1.0,5.87,0,0.001,0.1,LOW,355
+1366,Harris Ltd,Germany,Electronics,0,0.718,1.13,1.0,4.96,0,0.001,0.1,LOW,356
+1248,Smith Inc,Vietnam,Toys & Games,1,0.798,1.625,2.0,4.56,0,0.0009,0.1,LOW,357
+1369,Glover Plc,Poland,Apparel,0,0.794,1.0,2.0,9.67,0,0.0009,0.1,LOW,358
+1334,Lowe Ltd,Germany,Apparel,0,0.758,2.66,1.0,3.19,0,0.0009,0.1,LOW,359
+1257,Huber-Blanchard,USA,Apparel,1,0.792,1.66,1.0,6.65,0,0.0009,0.1,LOW,360
+1236,"Mckay, Gomez And Jones",Germany,Apparel,1,0.723,4.78,2.0,9.91,0,0.0009,0.1,LOW,361
+1440,Brown Group,Indonesia,Home Goods,0,0.704,1.0,0.0,3.62,0,0.0009,0.1,LOW,362
+1288,"Park, Douglas And Walker",China,Toys & Games,1,0.695,1.05,1.0,6.47,0,0.0009,0.1,LOW,363
+1007,Mcgee Inc,Mexico,Home Goods,0,0.718,1.0,0.0,4.21,0,0.0009,0.1,LOW,364
+1091,Walls Plc,Germany,Home Goods,1,0.933,1.52,1.0,6.87,0,0.0009,0.1,LOW,365
+1386,"White, Freeman And Wright",Indonesia,Electronics,1,0.695,1.61,1.0,3.09,0,0.0009,0.1,LOW,366
+1439,Graham-Nunez,Mexico,Home Goods,1,0.813,5.14,0.0,3.01,0,0.0008,0.1,LOW,367
+1431,Jensen Plc,Poland,Food & Beverage,0,0.807,1.42,2.0,8.31,0,0.0008,0.1,LOW,368
+1254,Baker Llc,Germany,Electronics,0,0.926,2.2,1.0,5.45,0,0.0008,0.1,LOW,369
+1484,Mcdowell Group,USA,Toys & Games,1,0.695,1.0,0.0,7.55,0,0.0008,0.1,LOW,370
+1367,"Jones, Andrews And Hopkins",India,Beauty & Personal Care,0,0.695,2.01,0.0,9.13,0,0.0008,0.1,LOW,371
+1074,Allen-Fernandez,Germany,Toys & Games,1,0.786,1.625,1.0,1.5,0,0.0008,0.1,LOW,372
+1184,"Bradshaw, Caldwell And Robertson",Vietnam,Beauty & Personal Care,0,0.876,1.35,1.0,9.09,0,0.0008,0.1,LOW,373
+1193,Silva-Rhodes,Vietnam,Beauty & Personal Care,1,0.69,1.0,1.0,5.93,0,0.0008,0.1,LOW,374
+1046,"Medina, Harrell And Henry",Mexico,Home Goods,1,0.695,3.26,1.0,3.28,0,0.0008,0.1,LOW,375
+1300,"Marquez, Banks And Sosa",Mexico,Home Goods,1,0.708,1.0,0.0,1.6,0,0.0007,0.1,LOW,376
+1272,Cook-Carter,Germany,Apparel,0,0.968,2.27,2.0,7.86,0,0.0007,0.1,LOW,377
+1256,Morton Inc,Vietnam,Unknown,0,0.695,1.47,0.0,1.74,0,0.0007,0.1,LOW,378
+1126,"Rice, Williams And Bishop",Poland,Home Goods,1,0.695,1.0,1.0,6.28,0,0.0007,0.1,LOW,379
+1194,Ball-Booker,USA,Electronics,0,0.736,2.42,2.0,9.19,0,0.0007,0.1,LOW,380
+1159,"Butler, Rose And Davis",Turkey,Beauty & Personal Care,0,0.596,1.0,0.0,5.0,0,0.0007,0.1,LOW,381
+1215,Martin-Collins,China,Home Goods,1,0.788,4.02,0.0,1.98,0,0.0007,0.1,LOW,382
+1011,Clay-Jones,China,Beauty & Personal Care,1,0.695,1.0,0.0,2.4,0,0.0007,0.1,LOW,383
+1416,Cobb-Levine,Mexico,Toys & Games,1,0.695,1.0,0.0,7.06,0,0.0007,0.1,LOW,384
+1118,Bennett Group,Mexico,Beauty & Personal Care,0,0.814,2.52,1.0,9.0,0,0.0007,0.1,LOW,385
+1105,Marshall-Bright,USA,Beauty & Personal Care,0,0.894,1.0,1.0,9.67,0,0.0007,0.1,LOW,386
+1213,Freeman Inc,Turkey,Electronics,0,0.802,1.0,0.0,9.21,0,0.0007,0.1,LOW,387
+1138,Boyd-Stevenson,Mexico,Home Goods,0,0.803,1.0,0.0,4.62,0,0.0007,0.1,LOW,388
+1487,Cantu And Sons,Bangladesh,Electronics,0,0.846,3.73,1.0,7.89,0,0.0007,0.1,LOW,389
+1350,"Soto, Hickman And Wilkins",Mexico,Apparel,0,0.695,1.09,0.0,2.61,0,0.0006,0.1,LOW,390
+1005,Norman-Brady,Bangladesh,Food & Beverage,0,0.695,1.0,0.0,2.31,0,0.0006,0.1,LOW,391
+1291,Ray-House,USA,Home Goods,0,0.886,1.99,1.0,7.02,0,0.0006,0.1,LOW,392
+1402,Patrick-Ramirez,Italy,Apparel,1,0.855,4.29,0.0,7.32,0,0.0006,0.1,LOW,393
+1490,"Burton, Jenkins And Matthews",Germany,Apparel,1,0.925,1.625,0.0,7.23,0,0.0006,0.1,LOW,394
+1325,"Stone, Johnson And Kelly",Turkey,Apparel,1,0.769,1.0,0.0,6.11,0,0.0006,0.1,LOW,395
+1156,Garcia-Chapman,USA,Apparel,1,0.858,1.625,1.0,2.15,0,0.0006,0.1,LOW,396
+1094,Pierce Llc,China,Toys & Games,1,0.713,1.0,1.0,8.92,0,0.0006,0.1,LOW,397
+1021,James-Spence,China,Toys & Games,0,0.726,1.0,2.0,7.11,0,0.0006,0.1,LOW,398
+1144,Jacobs And Sons,India,Electronics,0,0.928,5.03,1.0,2.14,0,0.0006,0.1,LOW,399
+1217,"Phillips, Pittman And Goodman",China,Toys & Games,1,0.726,1.1,2.0,4.51,0,0.0006,0.1,LOW,400
+1163,Smith-Duarte,Bangladesh,Apparel,0,0.723,1.37,0.0,7.5,0,0.0006,0.1,LOW,401
+1243,Murray-Richardson,Brazil,Beauty & Personal Care,1,0.735,4.79,0.0,6.95,0,0.0006,0.1,LOW,402
+1079,"Ortega, Orozco And Robertson",USA,Home Goods,0,0.759,2.49,0.0,3.01,0,0.0006,0.1,LOW,403
+1468,Romero-Hopkins,Mexico,Beauty & Personal Care,1,0.831,1.48,1.0,5.89,0,0.0006,0.1,LOW,404
+1063,Richardson Llc,Mexico,Food & Beverage,0,0.695,1.0,0.0,8.55,0,0.0006,0.1,LOW,405
+1260,"Garza, Mcbride And Dodson",India,Beauty & Personal Care,0,0.759,1.625,2.0,4.5,0,0.0005,0.0,LOW,406
+1282,Burton Ltd,Bangladesh,Food & Beverage,0,0.881,4.61,0.0,2.84,0,0.0005,0.0,LOW,407
+1481,Kennedy-Ross,Italy,Toys & Games,1,0.768,1.625,2.0,1.7,0,0.0005,0.1,LOW,408
+1001,Hill Ltd,Mexico,Apparel,0,0.749,1.625,0.0,3.35,0,0.0005,0.1,LOW,409
+1096,Green Plc,Poland,Toys & Games,1,0.811,1.625,2.0,2.38,0,0.0005,0.0,LOW,410
+1389,Guerrero Plc,USA,Toys & Games,0,0.86,1.0,0.0,8.97,0,0.0005,0.1,LOW,411
+1259,Gaines-Love,China,Toys & Games,0,0.84,1.0,1.0,5.47,0,0.0005,0.0,LOW,412
+1474,"Villarreal, Scott And Hinton",Brazil,Beauty & Personal Care,0,0.802,2.46,1.0,8.54,0,0.0005,0.0,LOW,413
+1284,Meyers Ltd,India,Beauty & Personal Care,1,0.781,1.625,0.0,7.06,0,0.0005,0.1,LOW,414
+1211,"Thompson, Cooper And Hill",Brazil,Beauty & Personal Care,0,0.787,1.625,2.0,5.91,0,0.0005,0.1,LOW,415
+1132,"Snow, Moody And Hester",China,Electronics,0,0.845,1.0,0.0,8.82,0,0.0005,0.0,LOW,416
+1309,Chavez Plc,China,Apparel,1,0.768,1.95,1.0,4.19,0,0.0005,0.0,LOW,417
+1377,Gomez Ltd,Mexico,Beauty & Personal Care,0,0.831,2.97,1.0,7.23,0,0.0005,0.0,LOW,418
+1020,Mitchell Plc,India,Beauty & Personal Care,0,0.79,2.17,1.0,9.69,0,0.0005,0.0,LOW,419
+1117,Hernandez-Dennis,USA,Home Goods,0,0.823,5.17,0.0,5.66,0,0.0005,0.0,LOW,420
+1107,Frederick-Wilson,Vietnam,Beauty & Personal Care,1,0.766,1.0,2.0,3.95,0,0.0005,0.0,LOW,421
+1335,Brown Llc,Mexico,Unknown,0,0.755,1.625,2.0,2.23,0,0.0005,0.1,LOW,422
+1271,"Lee, Haynes And Simmons",Brazil,Home Goods,0,0.828,2.78,0.0,6.22,0,0.0005,0.1,LOW,423
+1032,Russell-Hamilton,China,Beauty & Personal Care,1,0.815,1.625,1.0,4.28,0,0.0004,0.0,LOW,424
+1361,"Gonzalez, Bradford And Daniel",Brazil,Home Goods,0,0.778,4.24,1.0,8.17,0,0.0004,0.0,LOW,425
+1347,"Adams, Murray And Rice",Bangladesh,Beauty & Personal Care,0,0.731,1.0,0.0,8.88,0,0.0004,0.0,LOW,426
+1204,Shaw And Sons,Germany,Toys & Games,0,0.995,1.99,1.0,7.05,0,0.0004,0.0,LOW,427
+1441,Snyder Llc,Vietnam,Electronics,1,0.841,1.625,0.0,5.16,0,0.0004,0.0,LOW,428
+1139,"Thompson, Joseph And Morales",Turkey,Food & Beverage,1,0.839,1.625,0.0,2.39,0,0.0004,0.0,LOW,429
+1093,Gonzalez-Velasquez,Poland,Unknown,0,0.856,2.32,1.0,9.35,0,0.0004,0.0,LOW,430
+1045,Hudson-Webster,Germany,Home Goods,0,0.902,1.625,1.0,2.71,0,0.0004,0.0,LOW,431
+1164,Tucker Ltd,China,Electronics,1,0.8,1.625,1.0,1.8,0,0.0004,0.0,LOW,432
+1003,Johnson Llc,Mexico,Apparel,0,0.914,1.76,1.0,5.32,0,0.0004,0.0,LOW,433
+1247,Smith-White,Turkey,Food & Beverage,1,0.753,1.625,0.0,3.52,0,0.0004,0.0,LOW,434
+1034,Spears-Cross,Turkey,Home Goods,0,0.778,1.625,1.0,4.41,0,0.0004,0.0,LOW,435
+1467,White And Sons,Mexico,Electronics,1,0.728,1.625,1.0,4.27,0,0.0004,0.0,LOW,436
+1031,"Vaughan, Elliott And Freeman",Poland,Toys & Games,1,0.743,1.0,1.0,4.94,0,0.0004,0.0,LOW,437
+1305,"Mccarthy, Ramirez And Nichols",Brazil,Apparel,0,0.782,1.37,1.0,2.23,0,0.0004,0.0,LOW,438
+1013,Hicks-Cobb,Vietnam,Apparel,0,0.756,3.8,0.0,9.4,0,0.0004,0.0,LOW,439
+1447,Fisher-Tyler,Germany,Apparel,0,1.0,3.09,2.0,1.6,0,0.0004,0.0,LOW,440
+1459,Taylor Inc,China,Electronics,1,0.742,1.0,2.0,5.18,0,0.0004,0.0,LOW,441
+1308,Edwards-Jacobs,China,Beauty & Personal Care,0,0.82,1.0,2.0,6.73,0,0.0004,0.0,LOW,442
+1423,Pena-James,Mexico,Toys & Games,1,0.753,2.71,2.0,4.7,0,0.0004,0.0,LOW,443
+1287,Powers Group,India,Home Goods,1,0.758,5.16,0.0,3.56,0,0.0004,0.0,LOW,444
+1497,"Gomez, Armstrong And Garcia",India,Toys & Games,0,0.858,4.57,1.0,9.55,0,0.0004,0.0,LOW,445
+1478,Miller-Pierce,Brazil,Toys & Games,1,0.822,1.625,0.0,4.87,0,0.0004,0.0,LOW,446
+1405,Thomas-Mueller,India,Beauty & Personal Care,0,0.744,3.03,1.0,5.37,0,0.0003,0.0,LOW,447
+1205,"Knox, Mendoza And Parker",Bangladesh,Home Goods,1,0.94,1.76,0.0,5.28,0,0.0003,0.0,LOW,448
+1327,Phelps-Melton,USA,Food & Beverage,1,0.871,4.49,0.0,1.4,0,0.0003,0.0,LOW,449
+1080,Allen-Ward,USA,Beauty & Personal Care,1,0.757,1.625,1.0,5.11,0,0.0003,0.0,LOW,450
+1212,Williamson Ltd,Vietnam,Home Goods,1,0.734,1.625,1.0,4.03,0,0.0003,0.0,LOW,451
+1251,Thompson And Sons,Indonesia,Beauty & Personal Care,1,0.816,1.0,1.0,3.29,0,0.0003,0.0,LOW,452
+1331,Davis Group,India,Beauty & Personal Care,0,0.83,1.0,2.0,2.37,0,0.0003,0.0,LOW,453
+1355,Gray Group,Mexico,Food & Beverage,0,0.79,2.94,0.0,6.37,0,0.0003,0.0,LOW,454
+1076,Cunningham-Gardner,USA,Home Goods,0,0.843,3.46,0.0,5.08,0,0.0003,0.0,LOW,455
+1112,Powell-Morrison,Bangladesh,Electronics,0,0.759,3.02,1.0,6.64,0,0.0003,0.0,LOW,456
+1388,"Jones, Thompson And Avery",Brazil,Electronics,0,0.758,1.39,0.0,6.9,0,0.0003,0.0,LOW,457
+1207,"Davis, Price And Smith",China,Toys & Games,0,0.731,1.0,1.0,5.98,0,0.0003,0.0,LOW,458
+1307,"Hunt, Shepherd And Ballard",Mexico,Food & Beverage,0,0.795,1.0,1.0,3.09,0,0.0003,0.0,LOW,459
+1255,Nelson-Weiss,Mexico,Toys & Games,0,0.757,1.625,1.0,4.9,0,0.0003,0.0,LOW,460
+1220,Graves Inc,Germany,Toys & Games,1,0.971,1.0,2.0,6.11,0,0.0003,0.0,LOW,461
+1200,"Garcia, Rivera And Rivera",Bangladesh,Home Goods,0,0.767,1.625,1.0,5.23,0,0.0003,0.0,LOW,462
+1279,Gardner-White,India,Apparel,1,0.723,2.55,1.0,6.06,0,0.0003,0.0,LOW,463
+1314,"Ramirez, Riley And Michael",China,Food & Beverage,1,0.767,1.0,0.0,3.05,0,0.0003,0.0,LOW,464
+1049,"Evans, Lee And Smith",Mexico,Home Goods,1,0.856,2.46,1.0,5.35,0,0.0003,0.0,LOW,465
+1084,Floyd Group,Vietnam,Apparel,1,0.822,2.93,0.0,6.61,0,0.0003,0.0,LOW,466
+1469,"Vazquez, Griffin And Forbes",Bangladesh,Apparel,0,0.762,1.35,1.0,5.48,0,0.0003,0.0,LOW,467
+1383,Moore-Murillo,Mexico,Electronics,0,0.726,1.22,1.0,5.52,0,0.0003,0.0,LOW,468
+1337,"Gilmore, Frost And Barton",Mexico,Food & Beverage,0,0.871,1.75,0.0,8.04,0,0.0003,0.0,LOW,469
+1004,Walker And Sons,India,Apparel,0,0.738,2.85,0.0,7.46,0,0.0003,0.0,LOW,470
+1110,Owens And Sons,USA,Food & Beverage,0,0.761,2.71,0.0,3.89,0,0.0003,0.0,LOW,471
+1150,Clark-Greene,India,Electronics,0,0.866,1.0,2.0,3.97,0,0.0003,0.0,LOW,472
+1186,"Parker, Webb And Green",Germany,Electronics,0,0.734,1.0,1.0,4.42,0,0.0002,0.0,LOW,473
+1433,Bauer Plc,India,Apparel,1,0.804,1.625,0.0,1.46,0,0.0002,0.0,LOW,474
+1174,Gardner And Sons,India,Food & Beverage,0,0.805,1.96,1.0,5.26,0,0.0002,0.0,LOW,475
+1472,Hoffman Plc,USA,Beauty & Personal Care,1,0.758,1.0,1.0,6.14,0,0.0002,0.0,LOW,476
+1135,"Gomez, Bates And Parks",China,Toys & Games,1,0.792,1.0,0.0,5.31,0,0.0002,0.0,LOW,477
+1311,Washington-Carter,Mexico,Beauty & Personal Care,0,0.763,1.0,1.0,6.61,0,0.0002,0.0,LOW,478
+1187,"Gray, Taylor And Young",China,Unknown,1,0.735,1.0,1.0,4.84,0,0.0002,0.0,LOW,479
+1373,Stewart-Villegas,USA,Home Goods,1,0.752,1.0,0.0,2.26,0,0.0002,0.0,LOW,480
+1420,Kramer-Orozco,Bangladesh,Electronics,1,0.795,1.0,2.0,3.5,0,0.0002,0.0,LOW,481
+1037,Charles Group,Germany,Apparel,0,0.882,1.0,0.0,1.13,0,0.0002,0.0,LOW,482
+1261,James Llc,China,Toys & Games,1,0.799,2.61,0.0,3.93,0,0.0002,0.0,LOW,483
+1253,"Montgomery, Gallegos And Gonzalez",Brazil,Electronics,1,0.739,3.73,1.0,2.9,0,0.0002,0.0,LOW,484
+1127,Mccann Llc,Mexico,Beauty & Personal Care,1,0.749,1.61,1.0,1.35,0,0.0002,0.0,LOW,485
+1370,"Gonzalez, Hubbard And Ellis",Vietnam,Home Goods,0,0.784,1.0,0.0,6.6,0,0.0002,0.0,LOW,486
+1113,Houston Plc,Mexico,Electronics,1,0.858,1.625,0.0,2.69,0,0.0002,0.0,LOW,487
+1258,Gray-Weaver,USA,Home Goods,1,0.933,1.0,2.0,4.6,0,0.0002,0.0,LOW,488
+1400,"Gonzalez, Martin And Daniels",USA,Electronics,0,0.928,1.0,1.0,2.15,0,0.0002,0.0,LOW,489
+1353,House Plc,Germany,Apparel,1,0.886,2.59,1.0,1.79,0,0.0002,0.0,LOW,490
+1338,"Mcclain, Martin And Allen",Mexico,Beauty & Personal Care,1,0.723,1.0,0.0,5.03,0,0.0002,0.0,LOW,491
+1002,"Barton, Thompson And Johnson",China,Apparel,1,0.729,1.0,1.0,1.49,0,0.0002,0.0,LOW,492
+1265,Wright Plc,Italy,Electronics,1,0.933,1.0,1.0,6.87,0,0.0002,0.0,LOW,493
+1461,Herrera-Clark,Mexico,Beauty & Personal Care,0,0.768,2.61,0.0,6.22,0,0.0002,0.0,LOW,494
+1454,"Ruiz, Fletcher And Beck",Germany,Food & Beverage,0,0.927,1.21,1.0,5.94,0,0.0002,0.0,LOW,495
+1289,Barber-Campbell,USA,Beauty & Personal Care,0,0.929,4.7,1.0,3.01,0,0.0002,0.0,LOW,496
+1387,Sherman And Sons,India,Electronics,0,0.763,3.13,1.0,3.9,0,0.0002,0.0,LOW,497
+1371,Maxwell-Ford,Mexico,Beauty & Personal Care,1,0.726,1.0,0.0,3.98,0,1e-04,0.0,LOW,498
+1483,"Jackson, Stevenson And Foster",Bangladesh,Food & Beverage,0,0.777,1.0,1.0,2.64,0,1e-04,0.0,LOW,499
+1092,Allen-Hudson,Vietnam,Apparel,0,0.739,1.54,1.0,1.31,0,1e-04,0.0,LOW,500
